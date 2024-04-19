@@ -1,0 +1,678 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5E0AA44B2BC06AB50061D826 /* 2101. Detonate the Maximum Bombs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0AA44A2BC06AB50061D826 /* 2101. Detonate the Maximum Bombs.swift */; };
+		5E0AA44D2BC150000061D826 /* 127. Word Ladder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0AA44C2BC150000061D826 /* 127. Word Ladder.swift */; };
+		5E0AA44F2BC294380061D826 /* 1046. Last Stone Weight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0AA44E2BC294380061D826 /* 1046. Last Stone Weight.swift */; };
+		5E0AA4512BC4807A0061D826 /* 2208. Minimum Operations to Halve Array Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0AA4502BC4807A0061D826 /* 2208. Minimum Operations to Halve Array Sum.swift */; };
+		5E11C2E32B9F6D1B0068484B /* 695. Max Area of Island.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E11C2E22B9F6D1B0068484B /* 695. Max Area of Island.swift */; };
+		5E11C2F32BA0C50A0068484B /* 2368. Reachable Nodes With Restrictions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E11C2F22BA0C50A0068484B /* 2368. Reachable Nodes With Restrictions.swift */; };
+		5E1951312B911BCC0072C9B9 /* 98. Validate Binary Search Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1951302B911BCC0072C9B9 /* 98. Validate Binary Search Tree.swift */; };
+		5E1AF1192BC9D8F200ED7B26 /* 295. Find Median from Data Stream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1AF1182BC9D8F200ED7B26 /* 295. Find Median from Data Stream.swift */; };
+		5E1AF11B2BCD892500ED7B26 /* 1962. Remove Stones to Minimize the Total.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1AF11A2BCD892500ED7B26 /* 1962. Remove Stones to Minimize the Total.swift */; };
+		5E1AF11D2BCD8D0500ED7B26 /* 1167. Minimum Cost to Connect Sticks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1AF11C2BCD8D0500ED7B26 /* 1167. Minimum Cost to Connect Sticks.swift */; };
+		5E1AF11F2BCE9C0000ED7B26 /* 347. Top K Frequent Elements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1AF11E2BCE9C0000ED7B26 /* 347. Top K Frequent Elements.swift */; };
+		5E3772192BB6F76C005B2CEC /* 399. Evaluate Division.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E3772182BB6F76C005B2CEC /* 399. Evaluate Division.swift */; };
+		5E37721B2BB6F79A005B2CEC /* 1051. Height Checker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E37721A2BB6F79A005B2CEC /* 1051. Height Checker.swift */; };
+		5E37721D2BB88D78005B2CEC /* 433. Minimum Genetic Mutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E37721C2BB88D78005B2CEC /* 433. Minimum Genetic Mutation.swift */; };
+		5E37721F2BB9A9DD005B2CEC /* 1306. Jump Game III.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E37721E2BB9A9DD005B2CEC /* 1306. Jump Game III.swift */; };
+		5E3772212BBB4D64005B2CEC /* 414. Third Maximum Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E3772202BBB4D64005B2CEC /* 414. Third Maximum Number.swift */; };
+		5E40AD772BA8C5940017966A /* 1293. Shortest Path in a Grid with Obstacles Elimination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E40AD762BA8C5940017966A /* 1293. Shortest Path in a Grid with Obstacles Elimination.swift */; };
+		5E40AD792BA9FE170017966A /* 1129. Shortest Path with Alternating Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E40AD782BA9FE170017966A /* 1129. Shortest Path with Alternating Colors.swift */; };
+		5E41B31F2B55C5AF00C2B0EE /* 876. Middle of the Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E41B31E2B55C5AF00C2B0EE /* 876. Middle of the Linked List.swift */; };
+		5E41B3212B55C97A00C2B0EE /* 83. Remove Duplicates from Sorted List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E41B3202B55C97A00C2B0EE /* 83. Remove Duplicates from Sorted List.swift */; };
+		5E41B3232B5F009700C2B0EE /* 206. Reverse Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E41B3222B5F009700C2B0EE /* 206. Reverse Linked List.swift */; };
+		5E4484522BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4484512BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift */; };
+		5E448F5C2B3C5517009CA027 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F5B2B3C5517009CA027 /* main.swift */; };
+		5E448F632B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F622B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift */; };
+		5E448F652B3F6E5C009CA027 /* 1248. Count Number of Nice Subarrays .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F642B3F6E5C009CA027 /* 1248. Count Number of Nice Subarrays .swift */; };
+		5E448F672B3F808A009CA027 /* 2225. Find Players With Zero or One Losses .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F662B3F808A009CA027 /* 2225. Find Players With Zero or One Losses .swift */; };
+		5E448F692B40A4C5009CA027 /* 1133. Largest Unique Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F682B40A4C5009CA027 /* 1133. Largest Unique Number.swift */; };
+		5E448F6B2B40AEA0009CA027 /* 1189. Maximum Number of Balloons .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F6A2B40AEA0009CA027 /* 1189. Maximum Number of Balloons .swift */; };
+		5E448F6D2B4486FA009CA027 /* 525. Contiguous Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F6C2B4486FA009CA027 /* 525. Contiguous Array.swift */; };
+		5E448F6F2B448DF5009CA027 /* 49. Group Anagrams .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F6E2B448DF5009CA027 /* 49. Group Anagrams .swift */; };
+		5E448F712B44937B009CA027 /* 2260. Minimum Consecutive Cards to Pick Up .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F702B44937B009CA027 /* 2260. Minimum Consecutive Cards to Pick Up .swift */; };
+		5E448F732B449B22009CA027 /* 2342. Max Sum of a Pair With Equal Sum of Digits .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F722B449B22009CA027 /* 2342. Max Sum of a Pair With Equal Sum of Digits .swift */; };
+		5E448F752B44A704009CA027 /* 2352. Equal Row and Column Pairs .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F742B44A704009CA027 /* 2352. Equal Row and Column Pairs .swift */; };
+		5E448F772B460A83009CA027 /* 383. Ransom Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F762B460A83009CA027 /* 383. Ransom Note.swift */; };
+		5E448F792B460DE0009CA027 /* 771. Jewels and Stones .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F782B460DE0009CA027 /* 771. Jewels and Stones .swift */; };
+		5E448F7B2B474AA6009CA027 /* 3. Longest Substring Without Repeating Characters .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F7A2B474AA6009CA027 /* 3. Longest Substring Without Repeating Characters .swift */; };
+		5E56748E2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */; };
+		5E5674902B79304E00D2AAF4 /* 739. Daily Temperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */; };
+		5E5674922B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5674912B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift */; };
+		5E5674942B79537B00D2AAF4 /* 239. Sliding Window Maximum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5674932B79537B00D2AAF4 /* 239. Sliding Window Maximum.swift */; };
+		5E5BAD6B2B9329270039D1DC /* 701. Insert into a Binary Search Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5BAD6A2B9329270039D1DC /* 701. Insert into a Binary Search Tree.swift */; };
+		5E5BAD6D2B9478DD0039D1DC /* 270. Closest Binary Search Tree Value.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5BAD6C2B9478DD0039D1DC /* 270. Closest Binary Search Tree Value.swift */; };
+		5E5BAD6F2B95015D0039D1DC /* 547. Number of Provinces.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5BAD6E2B95015D0039D1DC /* 547. Number of Provinces.swift */; };
+		5E5C3AA22B6FD863004CC02C /* 24. Swap Nodes in Pairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5C3AA12B6FD863004CC02C /* 24. Swap Nodes in Pairs.swift */; };
+		5E5C3AA42B6FE12D004CC02C /* 2130. Maximum Twin Sum of a Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5C3AA32B6FE12D004CC02C /* 2130. Maximum Twin Sum of a Linked List.swift */; };
+		5E5C3AA62B700437004CC02C /* 92. Reverse Linked List II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5C3AA52B700437004CC02C /* 92. Reverse Linked List II.swift */; };
+		5E5C3AA82B718704004CC02C /* 20. Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5C3AA72B718704004CC02C /* 20. Valid Parentheses.swift */; };
+		5E5C3AAA2B718E60004CC02C /* 1047. Remove All Adjacent Duplicates In String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5C3AA92B718E60004CC02C /* 1047. Remove All Adjacent Duplicates In String.swift */; };
+		5E5C3AAC2B71908A004CC02C /* 844. Backspace String Compare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5C3AAB2B71908A004CC02C /* 844. Backspace String Compare.swift */; };
+		5E63F7B72BB377580036B95C /* 283. Move Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E63F7B62BB377580036B95C /* 283. Move Zeroes.swift */; };
+		5E6B9E242B4F442C003740C8 /* 141. Linked List Cycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6B9E232B4F442C003740C8 /* 141. Linked List Cycle.swift */; };
+		5E8097E12BA3A0A200284880 /* 863. All Nodes Distance K in Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E8097E02BA3A0A200284880 /* 863. All Nodes Distance K in Binary Tree.swift */; };
+		5E8097E32BA5A98A00284880 /* 542. 01 Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E8097E22BA5A98A00284880 /* 542. 01 Matrix.swift */; };
+		5E8227A72B8FC31B008DC5CE /* 938. Range Sum of BST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E8227A62B8FC31B008DC5CE /* 938. Range Sum of BST.swift */; };
+		5E8227A92B8FD3D8008DC5CE /* 530. Minimum Absolute Difference in BST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E8227A82B8FD3D8008DC5CE /* 530. Minimum Absolute Difference in BST.swift */; };
+		5EA1C1522B83CDF9005323B0 /* 496. Next Greater Element I.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA1C1512B83CDF9005323B0 /* 496. Next Greater Element I.swift */; };
+		5EA1C1542B83D87E005323B0 /* 901. Online Stock Span.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA1C1532B83D87E005323B0 /* 901. Online Stock Span.swift */; };
+		5EA1C1562B852484005323B0 /* 104. Maximum Depth of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA1C1552B852484005323B0 /* 104. Maximum Depth of Binary Tree.swift */; };
+		5EB5F7E22B7AC64D00622BF1 /* 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EB5F7E12B7AC64D00622BF1 /* 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.swift */; };
+		5EB616832BC7158C004A5F03 /* 75. Sort Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EB616822BC7158C004A5F03 /* 75. Sort Colors.swift */; };
+		5EB6252F2B741DBE0033CE3A /* 71. Simplify Path.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EB6252E2B741DBE0033CE3A /* 71. Simplify Path.swift */; };
+		5EB625312B7425300033CE3A /* 1544. Make The String Great.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EB625302B7425300033CE3A /* 1544. Make The String Great.swift */; };
+		5EB9B34E2B9A2CD1002FADF5 /* 841. Keys and Rooms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EB9B34D2B9A2CD1002FADF5 /* 841. Keys and Rooms.swift */; };
+		5EB9B3502B9B1D2C002FADF5 /* 1557. Minimum Number of Vertices to Reach All Nodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EB9B34F2B9B1D2C002FADF5 /* 1557. Minimum Number of Vertices to Reach All Nodes.swift */; };
+		5EB9B3552B9C6B63002FADF5 /* 1971. Find if Path Exists in Graph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EB9B3542B9C6B63002FADF5 /* 1971. Find if Path Exists in Graph.swift */; };
+		5EB9B3572B9E297A002FADF5 /* 323. Number of Connected Components in an Undirected Graph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EB9B3562B9E297A002FADF5 /* 323. Number of Connected Components in an Undirected Graph.swift */; };
+		5EBAE0D32BB20C6700112CAF /* 752. Open the Lock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EBAE0D22BB20C6700112CAF /* 752. Open the Lock.swift */; };
+		5EC2AAC12BCFC3660056B2AB /* 658. Find K Closest Elements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AAC02BCFC3660056B2AB /* 658. Find K Closest Elements.swift */; };
+		5EC2AAC32BD12D660056B2AB /* 215. Kth Largest Element in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AAC22BD12D660056B2AB /* 215. Kth Largest Element in an Array.swift */; };
+		5EC2AAC62BD283D90056B2AB /* MaxHeap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AAC52BD283D90056B2AB /* MaxHeap.swift */; };
+		5EC2AAC82BD284290056B2AB /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AAC72BD284290056B2AB /* TreeNode.swift */; };
+		5EC2AACA2BD284530056B2AB /* ListNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AAC92BD284530056B2AB /* ListNode.swift */; };
+		5EC2AACC2BD284990056B2AB /* BST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AACB2BD284990056B2AB /* BST.swift */; };
+		5EC2AACE2BD284CE0056B2AB /* Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AACD2BD284CE0056B2AB /* Tree.swift */; };
+		5EC2AAD02BD284F20056B2AB /* Prints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AACF2BD284F20056B2AB /* Prints.swift */; };
+		5ED3FCF72BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED3FCF62BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift */; };
+		5ED600292B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED600282B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift */; };
+		5EE21D642B966C0900412F48 /* 200. Number of Islands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE21D632B966C0900412F48 /* 200. Number of Islands.swift */; };
+		5EE3DDF72BAB9263003F7686 /* 1346. Check If N and Its Double Exist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE3DDF62BAB9263003F7686 /* 1346. Check If N and Its Double Exist.swift */; };
+		5EE3DDF92BACC35E003F7686 /* 941. Valid Mountain Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE3DDF82BACC35E003F7686 /* 941. Valid Mountain Array.swift */; };
+		5EE3DDFB2BAE03A3003F7686 /* 1299. Replace Elements with Greatest Element on Right Side.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE3DDFA2BAE03A3003F7686 /* 1299. Replace Elements with Greatest Element on Right Side.swift */; };
+		5EE3DDFD2BAF4550003F7686 /* 1926. Nearest Exit from Entrance in Maze.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE3DDFC2BAF4550003F7686 /* 1926. Nearest Exit from Entrance in Maze.swift */; };
+		5EE3DDFF2BB0BF0C003F7686 /* 909. Snakes and Ladders.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE3DDFE2BB0BF0C003F7686 /* 909. Snakes and Ladders.swift */; };
+		5EF72D8B2BB4CB1100B8CF21 /* 905. Sort Array By Parity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EF72D8A2BB4CB1100B8CF21 /* 905. Sort Array By Parity.swift */; };
+		5EFCD3B62B86977900359C54 /* 112. Path Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFCD3B52B86977900359C54 /* 112. Path Sum.swift */; };
+		5EFCD3CD2B87C3A800359C54 /* 1448. Count Good Nodes in Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFCD3CC2B87C3A800359C54 /* 1448. Count Good Nodes in Binary Tree.swift */; };
+		5EFCD3CF2B87CCD200359C54 /* 100. Same Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFCD3CE2B87CCD200359C54 /* 100. Same Tree.swift */; };
+		5EFCD3D12B88A9A800359C54 /* 236. Lowest Common Ancestor of a Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFCD3D02B88A9A800359C54 /* 236. Lowest Common Ancestor of a Binary Tree.swift */; };
+		5EFCD3D32B88C13300359C54 /* 111. Minimum Depth of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFCD3D22B88C13300359C54 /* 111. Minimum Depth of Binary Tree.swift */; };
+		5EFCD3D52B8A785D00359C54 /* 1026. Maximum Difference Between Node and Ancestor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFCD3D42B8A785D00359C54 /* 1026. Maximum Difference Between Node and Ancestor.swift */; };
+		5EFCD3D72B8A81DD00359C54 /* 543. Diameter of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFCD3D62B8A81DD00359C54 /* 543. Diameter of Binary Tree.swift */; };
+		5EFCD3D92B8B5E0700359C54 /* 199. Binary Tree Right Side View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFCD3D82B8B5E0700359C54 /* 199. Binary Tree Right Side View.swift */; };
+		5EFCD3DB2B8B635B00359C54 /* 515. Find Largest Value in Each Tree Row.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFCD3DA2B8B635B00359C54 /* 515. Find Largest Value in Each Tree Row.swift */; };
+		5EFCD3FA2B8D41BC00359C54 /* 1302. Deepest Leaves Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFCD3F92B8D41BC00359C54 /* 1302. Deepest Leaves Sum.swift */; };
+		5EFCD4032B8E66AD00359C54 /* 103. Binary Tree Zigzag Level Order Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFCD4022B8E66AD00359C54 /* 103. Binary Tree Zigzag Level Order Traversal.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		5E448F562B3C5517009CA027 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		5E0AA44A2BC06AB50061D826 /* 2101. Detonate the Maximum Bombs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2101. Detonate the Maximum Bombs.swift"; sourceTree = "<group>"; };
+		5E0AA44C2BC150000061D826 /* 127. Word Ladder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "127. Word Ladder.swift"; sourceTree = "<group>"; };
+		5E0AA44E2BC294380061D826 /* 1046. Last Stone Weight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1046. Last Stone Weight.swift"; sourceTree = "<group>"; };
+		5E0AA4502BC4807A0061D826 /* 2208. Minimum Operations to Halve Array Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2208. Minimum Operations to Halve Array Sum.swift"; sourceTree = "<group>"; };
+		5E11C2E22B9F6D1B0068484B /* 695. Max Area of Island.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "695. Max Area of Island.swift"; sourceTree = "<group>"; };
+		5E11C2F22BA0C50A0068484B /* 2368. Reachable Nodes With Restrictions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2368. Reachable Nodes With Restrictions.swift"; sourceTree = "<group>"; };
+		5E1951302B911BCC0072C9B9 /* 98. Validate Binary Search Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "98. Validate Binary Search Tree.swift"; sourceTree = "<group>"; };
+		5E1AF1182BC9D8F200ED7B26 /* 295. Find Median from Data Stream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "295. Find Median from Data Stream.swift"; sourceTree = "<group>"; };
+		5E1AF11A2BCD892500ED7B26 /* 1962. Remove Stones to Minimize the Total.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1962. Remove Stones to Minimize the Total.swift"; sourceTree = "<group>"; };
+		5E1AF11C2BCD8D0500ED7B26 /* 1167. Minimum Cost to Connect Sticks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1167. Minimum Cost to Connect Sticks.swift"; sourceTree = "<group>"; };
+		5E1AF11E2BCE9C0000ED7B26 /* 347. Top K Frequent Elements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "347. Top K Frequent Elements.swift"; sourceTree = "<group>"; };
+		5E3772182BB6F76C005B2CEC /* 399. Evaluate Division.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "399. Evaluate Division.swift"; sourceTree = "<group>"; };
+		5E37721A2BB6F79A005B2CEC /* 1051. Height Checker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1051. Height Checker.swift"; sourceTree = "<group>"; };
+		5E37721C2BB88D78005B2CEC /* 433. Minimum Genetic Mutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "433. Minimum Genetic Mutation.swift"; sourceTree = "<group>"; };
+		5E37721E2BB9A9DD005B2CEC /* 1306. Jump Game III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1306. Jump Game III.swift"; sourceTree = "<group>"; };
+		5E3772202BBB4D64005B2CEC /* 414. Third Maximum Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "414. Third Maximum Number.swift"; sourceTree = "<group>"; };
+		5E40AD762BA8C5940017966A /* 1293. Shortest Path in a Grid with Obstacles Elimination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1293. Shortest Path in a Grid with Obstacles Elimination.swift"; sourceTree = "<group>"; };
+		5E40AD782BA9FE170017966A /* 1129. Shortest Path with Alternating Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1129. Shortest Path with Alternating Colors.swift"; sourceTree = "<group>"; };
+		5E41B31E2B55C5AF00C2B0EE /* 876. Middle of the Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "876. Middle of the Linked List.swift"; sourceTree = "<group>"; };
+		5E41B3202B55C97A00C2B0EE /* 83. Remove Duplicates from Sorted List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "83. Remove Duplicates from Sorted List.swift"; sourceTree = "<group>"; };
+		5E41B3222B5F009700C2B0EE /* 206. Reverse Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "206. Reverse Linked List.swift"; sourceTree = "<group>"; };
+		5E4484512BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1091. Shortest Path in Binary Matrix.swift"; sourceTree = "<group>"; };
+		5E448F582B3C5517009CA027 /* dataStructures */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = dataStructures; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E448F5B2B3C5517009CA027 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		5E448F622B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2090. K Radius Subarray Averages .swift"; sourceTree = "<group>"; };
+		5E448F642B3F6E5C009CA027 /* 1248. Count Number of Nice Subarrays .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1248. Count Number of Nice Subarrays .swift"; sourceTree = "<group>"; };
+		5E448F662B3F808A009CA027 /* 2225. Find Players With Zero or One Losses .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2225. Find Players With Zero or One Losses .swift"; sourceTree = "<group>"; };
+		5E448F682B40A4C5009CA027 /* 1133. Largest Unique Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1133. Largest Unique Number.swift"; sourceTree = "<group>"; };
+		5E448F6A2B40AEA0009CA027 /* 1189. Maximum Number of Balloons .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1189. Maximum Number of Balloons .swift"; sourceTree = "<group>"; };
+		5E448F6C2B4486FA009CA027 /* 525. Contiguous Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "525. Contiguous Array.swift"; sourceTree = "<group>"; };
+		5E448F6E2B448DF5009CA027 /* 49. Group Anagrams .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "49. Group Anagrams .swift"; sourceTree = "<group>"; };
+		5E448F702B44937B009CA027 /* 2260. Minimum Consecutive Cards to Pick Up .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2260. Minimum Consecutive Cards to Pick Up .swift"; sourceTree = "<group>"; };
+		5E448F722B449B22009CA027 /* 2342. Max Sum of a Pair With Equal Sum of Digits .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2342. Max Sum of a Pair With Equal Sum of Digits .swift"; sourceTree = "<group>"; };
+		5E448F742B44A704009CA027 /* 2352. Equal Row and Column Pairs .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2352. Equal Row and Column Pairs .swift"; sourceTree = "<group>"; };
+		5E448F762B460A83009CA027 /* 383. Ransom Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "383. Ransom Note.swift"; sourceTree = "<group>"; };
+		5E448F782B460DE0009CA027 /* 771. Jewels and Stones .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "771. Jewels and Stones .swift"; sourceTree = "<group>"; };
+		5E448F7A2B474AA6009CA027 /* 3. Longest Substring Without Repeating Characters .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3. Longest Substring Without Repeating Characters .swift"; sourceTree = "<group>"; };
+		5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "933. Number of Recent Calls.swift"; sourceTree = "<group>"; };
+		5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "739. Daily Temperatures.swift"; sourceTree = "<group>"; };
+		5E5674912B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "346. Moving Average from Data Stream.swift"; sourceTree = "<group>"; };
+		5E5674932B79537B00D2AAF4 /* 239. Sliding Window Maximum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "239. Sliding Window Maximum.swift"; sourceTree = "<group>"; };
+		5E5BAD6A2B9329270039D1DC /* 701. Insert into a Binary Search Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "701. Insert into a Binary Search Tree.swift"; sourceTree = "<group>"; };
+		5E5BAD6C2B9478DD0039D1DC /* 270. Closest Binary Search Tree Value.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "270. Closest Binary Search Tree Value.swift"; sourceTree = "<group>"; };
+		5E5BAD6E2B95015D0039D1DC /* 547. Number of Provinces.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "547. Number of Provinces.swift"; sourceTree = "<group>"; };
+		5E5C3AA12B6FD863004CC02C /* 24. Swap Nodes in Pairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "24. Swap Nodes in Pairs.swift"; sourceTree = "<group>"; };
+		5E5C3AA32B6FE12D004CC02C /* 2130. Maximum Twin Sum of a Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2130. Maximum Twin Sum of a Linked List.swift"; sourceTree = "<group>"; };
+		5E5C3AA52B700437004CC02C /* 92. Reverse Linked List II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "92. Reverse Linked List II.swift"; sourceTree = "<group>"; };
+		5E5C3AA72B718704004CC02C /* 20. Valid Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "20. Valid Parentheses.swift"; sourceTree = "<group>"; };
+		5E5C3AA92B718E60004CC02C /* 1047. Remove All Adjacent Duplicates In String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1047. Remove All Adjacent Duplicates In String.swift"; sourceTree = "<group>"; };
+		5E5C3AAB2B71908A004CC02C /* 844. Backspace String Compare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "844. Backspace String Compare.swift"; sourceTree = "<group>"; };
+		5E63F7B62BB377580036B95C /* 283. Move Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "283. Move Zeroes.swift"; sourceTree = "<group>"; };
+		5E6B9E232B4F442C003740C8 /* 141. Linked List Cycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "141. Linked List Cycle.swift"; sourceTree = "<group>"; };
+		5E8097E02BA3A0A200284880 /* 863. All Nodes Distance K in Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "863. All Nodes Distance K in Binary Tree.swift"; sourceTree = "<group>"; };
+		5E8097E22BA5A98A00284880 /* 542. 01 Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "542. 01 Matrix.swift"; sourceTree = "<group>"; };
+		5E8227A62B8FC31B008DC5CE /* 938. Range Sum of BST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "938. Range Sum of BST.swift"; sourceTree = "<group>"; };
+		5E8227A82B8FD3D8008DC5CE /* 530. Minimum Absolute Difference in BST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "530. Minimum Absolute Difference in BST.swift"; sourceTree = "<group>"; };
+		5EA1C1512B83CDF9005323B0 /* 496. Next Greater Element I.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "496. Next Greater Element I.swift"; sourceTree = "<group>"; };
+		5EA1C1532B83D87E005323B0 /* 901. Online Stock Span.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "901. Online Stock Span.swift"; sourceTree = "<group>"; };
+		5EA1C1552B852484005323B0 /* 104. Maximum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "104. Maximum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
+		5EB5F7E12B7AC64D00622BF1 /* 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.swift"; sourceTree = "<group>"; };
+		5EB616822BC7158C004A5F03 /* 75. Sort Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "75. Sort Colors.swift"; sourceTree = "<group>"; };
+		5EB6252E2B741DBE0033CE3A /* 71. Simplify Path.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "71. Simplify Path.swift"; sourceTree = "<group>"; };
+		5EB625302B7425300033CE3A /* 1544. Make The String Great.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1544. Make The String Great.swift"; sourceTree = "<group>"; };
+		5EB9B34D2B9A2CD1002FADF5 /* 841. Keys and Rooms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "841. Keys and Rooms.swift"; sourceTree = "<group>"; };
+		5EB9B34F2B9B1D2C002FADF5 /* 1557. Minimum Number of Vertices to Reach All Nodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1557. Minimum Number of Vertices to Reach All Nodes.swift"; sourceTree = "<group>"; };
+		5EB9B3542B9C6B63002FADF5 /* 1971. Find if Path Exists in Graph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1971. Find if Path Exists in Graph.swift"; sourceTree = "<group>"; };
+		5EB9B3562B9E297A002FADF5 /* 323. Number of Connected Components in an Undirected Graph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "323. Number of Connected Components in an Undirected Graph.swift"; sourceTree = "<group>"; };
+		5EBAE0D22BB20C6700112CAF /* 752. Open the Lock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "752. Open the Lock.swift"; sourceTree = "<group>"; };
+		5EC2AAC02BCFC3660056B2AB /* 658. Find K Closest Elements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "658. Find K Closest Elements.swift"; sourceTree = "<group>"; };
+		5EC2AAC22BD12D660056B2AB /* 215. Kth Largest Element in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "215. Kth Largest Element in an Array.swift"; sourceTree = "<group>"; };
+		5EC2AAC52BD283D90056B2AB /* MaxHeap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxHeap.swift; sourceTree = "<group>"; };
+		5EC2AAC72BD284290056B2AB /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
+		5EC2AAC92BD284530056B2AB /* ListNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListNode.swift; sourceTree = "<group>"; };
+		5EC2AACB2BD284990056B2AB /* BST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BST.swift; sourceTree = "<group>"; };
+		5EC2AACD2BD284CE0056B2AB /* Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tree.swift; sourceTree = "<group>"; };
+		5EC2AACF2BD284F20056B2AB /* Prints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prints.swift; sourceTree = "<group>"; };
+		5ED3FCF62BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "448. Find All Numbers Disappeared in an Array.swift"; sourceTree = "<group>"; };
+		5ED600282B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1466. Reorder Routes to Make All Paths Lead to the City Zero.swift"; sourceTree = "<group>"; };
+		5EE21D632B966C0900412F48 /* 200. Number of Islands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "200. Number of Islands.swift"; sourceTree = "<group>"; };
+		5EE3DDF62BAB9263003F7686 /* 1346. Check If N and Its Double Exist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1346. Check If N and Its Double Exist.swift"; sourceTree = "<group>"; };
+		5EE3DDF82BACC35E003F7686 /* 941. Valid Mountain Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "941. Valid Mountain Array.swift"; sourceTree = "<group>"; };
+		5EE3DDFA2BAE03A3003F7686 /* 1299. Replace Elements with Greatest Element on Right Side.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1299. Replace Elements with Greatest Element on Right Side.swift"; sourceTree = "<group>"; };
+		5EE3DDFC2BAF4550003F7686 /* 1926. Nearest Exit from Entrance in Maze.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1926. Nearest Exit from Entrance in Maze.swift"; sourceTree = "<group>"; };
+		5EE3DDFE2BB0BF0C003F7686 /* 909. Snakes and Ladders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "909. Snakes and Ladders.swift"; sourceTree = "<group>"; };
+		5EF72D8A2BB4CB1100B8CF21 /* 905. Sort Array By Parity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "905. Sort Array By Parity.swift"; sourceTree = "<group>"; };
+		5EFCD3B52B86977900359C54 /* 112. Path Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "112. Path Sum.swift"; sourceTree = "<group>"; };
+		5EFCD3CC2B87C3A800359C54 /* 1448. Count Good Nodes in Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1448. Count Good Nodes in Binary Tree.swift"; sourceTree = "<group>"; };
+		5EFCD3CE2B87CCD200359C54 /* 100. Same Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "100. Same Tree.swift"; sourceTree = "<group>"; };
+		5EFCD3D02B88A9A800359C54 /* 236. Lowest Common Ancestor of a Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "236. Lowest Common Ancestor of a Binary Tree.swift"; sourceTree = "<group>"; };
+		5EFCD3D22B88C13300359C54 /* 111. Minimum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "111. Minimum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
+		5EFCD3D42B8A785D00359C54 /* 1026. Maximum Difference Between Node and Ancestor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1026. Maximum Difference Between Node and Ancestor.swift"; sourceTree = "<group>"; };
+		5EFCD3D62B8A81DD00359C54 /* 543. Diameter of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "543. Diameter of Binary Tree.swift"; sourceTree = "<group>"; };
+		5EFCD3D82B8B5E0700359C54 /* 199. Binary Tree Right Side View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "199. Binary Tree Right Side View.swift"; sourceTree = "<group>"; };
+		5EFCD3DA2B8B635B00359C54 /* 515. Find Largest Value in Each Tree Row.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "515. Find Largest Value in Each Tree Row.swift"; sourceTree = "<group>"; };
+		5EFCD3F92B8D41BC00359C54 /* 1302. Deepest Leaves Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1302. Deepest Leaves Sum.swift"; sourceTree = "<group>"; };
+		5EFCD4022B8E66AD00359C54 /* 103. Binary Tree Zigzag Level Order Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "103. Binary Tree Zigzag Level Order Traversal.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5E448F552B3C5517009CA027 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5E448F4F2B3C5517009CA027 = {
+			isa = PBXGroup;
+			children = (
+				5E448F5A2B3C5517009CA027 /* dataStructures */,
+				5E448F592B3C5517009CA027 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5E448F592B3C5517009CA027 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5E448F582B3C5517009CA027 /* dataStructures */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5E448F5A2B3C5517009CA027 /* dataStructures */ = {
+			isa = PBXGroup;
+			children = (
+				5EC2AAC42BD283BE0056B2AB /* Helpers */,
+				5E448F5B2B3C5517009CA027 /* main.swift */,
+				5EFCD3B52B86977900359C54 /* 112. Path Sum.swift */,
+				5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */,
+				5E5C3AA52B700437004CC02C /* 92. Reverse Linked List II.swift */,
+				5E448F622B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift */,
+				5E448F642B3F6E5C009CA027 /* 1248. Count Number of Nice Subarrays .swift */,
+				5E448F662B3F808A009CA027 /* 2225. Find Players With Zero or One Losses .swift */,
+				5E448F682B40A4C5009CA027 /* 1133. Largest Unique Number.swift */,
+				5E448F6A2B40AEA0009CA027 /* 1189. Maximum Number of Balloons .swift */,
+				5E448F6C2B4486FA009CA027 /* 525. Contiguous Array.swift */,
+				5E448F6E2B448DF5009CA027 /* 49. Group Anagrams .swift */,
+				5E448F702B44937B009CA027 /* 2260. Minimum Consecutive Cards to Pick Up .swift */,
+				5E448F722B449B22009CA027 /* 2342. Max Sum of a Pair With Equal Sum of Digits .swift */,
+				5E448F742B44A704009CA027 /* 2352. Equal Row and Column Pairs .swift */,
+				5E448F762B460A83009CA027 /* 383. Ransom Note.swift */,
+				5E448F782B460DE0009CA027 /* 771. Jewels and Stones .swift */,
+				5E448F7A2B474AA6009CA027 /* 3. Longest Substring Without Repeating Characters .swift */,
+				5E6B9E232B4F442C003740C8 /* 141. Linked List Cycle.swift */,
+				5E41B31E2B55C5AF00C2B0EE /* 876. Middle of the Linked List.swift */,
+				5E41B3202B55C97A00C2B0EE /* 83. Remove Duplicates from Sorted List.swift */,
+				5E41B3222B5F009700C2B0EE /* 206. Reverse Linked List.swift */,
+				5E5C3AA12B6FD863004CC02C /* 24. Swap Nodes in Pairs.swift */,
+				5E5C3AA32B6FE12D004CC02C /* 2130. Maximum Twin Sum of a Linked List.swift */,
+				5E5C3AA72B718704004CC02C /* 20. Valid Parentheses.swift */,
+				5E5C3AA92B718E60004CC02C /* 1047. Remove All Adjacent Duplicates In String.swift */,
+				5E5C3AAB2B71908A004CC02C /* 844. Backspace String Compare.swift */,
+				5EB6252E2B741DBE0033CE3A /* 71. Simplify Path.swift */,
+				5EB625302B7425300033CE3A /* 1544. Make The String Great.swift */,
+				5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */,
+				5E5674912B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift */,
+				5E5674932B79537B00D2AAF4 /* 239. Sliding Window Maximum.swift */,
+				5EB5F7E12B7AC64D00622BF1 /* 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.swift */,
+				5EA1C1512B83CDF9005323B0 /* 496. Next Greater Element I.swift */,
+				5EA1C1532B83D87E005323B0 /* 901. Online Stock Span.swift */,
+				5EA1C1552B852484005323B0 /* 104. Maximum Depth of Binary Tree.swift */,
+				5EFCD3CC2B87C3A800359C54 /* 1448. Count Good Nodes in Binary Tree.swift */,
+				5EFCD3CE2B87CCD200359C54 /* 100. Same Tree.swift */,
+				5EFCD3D02B88A9A800359C54 /* 236. Lowest Common Ancestor of a Binary Tree.swift */,
+				5EFCD3D22B88C13300359C54 /* 111. Minimum Depth of Binary Tree.swift */,
+				5EFCD3D42B8A785D00359C54 /* 1026. Maximum Difference Between Node and Ancestor.swift */,
+				5EFCD3D62B8A81DD00359C54 /* 543. Diameter of Binary Tree.swift */,
+				5EFCD3D82B8B5E0700359C54 /* 199. Binary Tree Right Side View.swift */,
+				5EFCD3DA2B8B635B00359C54 /* 515. Find Largest Value in Each Tree Row.swift */,
+				5EFCD3F92B8D41BC00359C54 /* 1302. Deepest Leaves Sum.swift */,
+				5EFCD4022B8E66AD00359C54 /* 103. Binary Tree Zigzag Level Order Traversal.swift */,
+				5E8227A62B8FC31B008DC5CE /* 938. Range Sum of BST.swift */,
+				5E8227A82B8FD3D8008DC5CE /* 530. Minimum Absolute Difference in BST.swift */,
+				5E1951302B911BCC0072C9B9 /* 98. Validate Binary Search Tree.swift */,
+				5E5BAD6A2B9329270039D1DC /* 701. Insert into a Binary Search Tree.swift */,
+				5E5BAD6C2B9478DD0039D1DC /* 270. Closest Binary Search Tree Value.swift */,
+				5E5BAD6E2B95015D0039D1DC /* 547. Number of Provinces.swift */,
+				5EE21D632B966C0900412F48 /* 200. Number of Islands.swift */,
+				5ED600282B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift */,
+				5EB9B34D2B9A2CD1002FADF5 /* 841. Keys and Rooms.swift */,
+				5EB9B34F2B9B1D2C002FADF5 /* 1557. Minimum Number of Vertices to Reach All Nodes.swift */,
+				5EB9B3542B9C6B63002FADF5 /* 1971. Find if Path Exists in Graph.swift */,
+				5EB9B3562B9E297A002FADF5 /* 323. Number of Connected Components in an Undirected Graph.swift */,
+				5E11C2E22B9F6D1B0068484B /* 695. Max Area of Island.swift */,
+				5E11C2F22BA0C50A0068484B /* 2368. Reachable Nodes With Restrictions.swift */,
+				5E4484512BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift */,
+				5E8097E02BA3A0A200284880 /* 863. All Nodes Distance K in Binary Tree.swift */,
+				5E8097E22BA5A98A00284880 /* 542. 01 Matrix.swift */,
+				5E40AD762BA8C5940017966A /* 1293. Shortest Path in a Grid with Obstacles Elimination.swift */,
+				5E40AD782BA9FE170017966A /* 1129. Shortest Path with Alternating Colors.swift */,
+				5EE3DDF62BAB9263003F7686 /* 1346. Check If N and Its Double Exist.swift */,
+				5EE3DDF82BACC35E003F7686 /* 941. Valid Mountain Array.swift */,
+				5EE3DDFA2BAE03A3003F7686 /* 1299. Replace Elements with Greatest Element on Right Side.swift */,
+				5EE3DDFC2BAF4550003F7686 /* 1926. Nearest Exit from Entrance in Maze.swift */,
+				5EE3DDFE2BB0BF0C003F7686 /* 909. Snakes and Ladders.swift */,
+				5EBAE0D22BB20C6700112CAF /* 752. Open the Lock.swift */,
+				5E63F7B62BB377580036B95C /* 283. Move Zeroes.swift */,
+				5EF72D8A2BB4CB1100B8CF21 /* 905. Sort Array By Parity.swift */,
+				5E3772182BB6F76C005B2CEC /* 399. Evaluate Division.swift */,
+				5E37721A2BB6F79A005B2CEC /* 1051. Height Checker.swift */,
+				5E37721C2BB88D78005B2CEC /* 433. Minimum Genetic Mutation.swift */,
+				5E37721E2BB9A9DD005B2CEC /* 1306. Jump Game III.swift */,
+				5E3772202BBB4D64005B2CEC /* 414. Third Maximum Number.swift */,
+				5ED3FCF62BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift */,
+				5E0AA44A2BC06AB50061D826 /* 2101. Detonate the Maximum Bombs.swift */,
+				5E0AA44C2BC150000061D826 /* 127. Word Ladder.swift */,
+				5E0AA44E2BC294380061D826 /* 1046. Last Stone Weight.swift */,
+				5E0AA4502BC4807A0061D826 /* 2208. Minimum Operations to Halve Array Sum.swift */,
+				5EB616822BC7158C004A5F03 /* 75. Sort Colors.swift */,
+				5E1AF1182BC9D8F200ED7B26 /* 295. Find Median from Data Stream.swift */,
+				5E1AF11A2BCD892500ED7B26 /* 1962. Remove Stones to Minimize the Total.swift */,
+				5E1AF11C2BCD8D0500ED7B26 /* 1167. Minimum Cost to Connect Sticks.swift */,
+				5E1AF11E2BCE9C0000ED7B26 /* 347. Top K Frequent Elements.swift */,
+				5EC2AAC02BCFC3660056B2AB /* 658. Find K Closest Elements.swift */,
+				5EC2AAC22BD12D660056B2AB /* 215. Kth Largest Element in an Array.swift */,
+			);
+			path = dataStructures;
+			sourceTree = "<group>";
+		};
+		5EC2AAC42BD283BE0056B2AB /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				5EC2AAC52BD283D90056B2AB /* MaxHeap.swift */,
+				5EC2AAC72BD284290056B2AB /* TreeNode.swift */,
+				5EC2AAC92BD284530056B2AB /* ListNode.swift */,
+				5EC2AACB2BD284990056B2AB /* BST.swift */,
+				5EC2AACD2BD284CE0056B2AB /* Tree.swift */,
+				5EC2AACF2BD284F20056B2AB /* Prints.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5E448F572B3C5517009CA027 /* dataStructures */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5E448F5F2B3C5517009CA027 /* Build configuration list for PBXNativeTarget "dataStructures" */;
+			buildPhases = (
+				5E448F542B3C5517009CA027 /* Sources */,
+				5E448F552B3C5517009CA027 /* Frameworks */,
+				5E448F562B3C5517009CA027 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = dataStructures;
+			productName = dataStructures;
+			productReference = 5E448F582B3C5517009CA027 /* dataStructures */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5E448F502B3C5517009CA027 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					5E448F572B3C5517009CA027 = {
+						CreatedOnToolsVersion = 15.0;
+					};
+				};
+			};
+			buildConfigurationList = 5E448F532B3C5517009CA027 /* Build configuration list for PBXProject "dataStructures" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5E448F4F2B3C5517009CA027;
+			productRefGroup = 5E448F592B3C5517009CA027 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5E448F572B3C5517009CA027 /* dataStructures */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5E448F542B3C5517009CA027 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5E5674942B79537B00D2AAF4 /* 239. Sliding Window Maximum.swift in Sources */,
+				5E0AA44D2BC150000061D826 /* 127. Word Ladder.swift in Sources */,
+				5E37721D2BB88D78005B2CEC /* 433. Minimum Genetic Mutation.swift in Sources */,
+				5EBAE0D32BB20C6700112CAF /* 752. Open the Lock.swift in Sources */,
+				5EFCD3D32B88C13300359C54 /* 111. Minimum Depth of Binary Tree.swift in Sources */,
+				5E3772192BB6F76C005B2CEC /* 399. Evaluate Division.swift in Sources */,
+				5EE3DDF92BACC35E003F7686 /* 941. Valid Mountain Array.swift in Sources */,
+				5EB9B34E2B9A2CD1002FADF5 /* 841. Keys and Rooms.swift in Sources */,
+				5E5C3AA62B700437004CC02C /* 92. Reverse Linked List II.swift in Sources */,
+				5EE21D642B966C0900412F48 /* 200. Number of Islands.swift in Sources */,
+				5EB5F7E22B7AC64D00622BF1 /* 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.swift in Sources */,
+				5E8097E32BA5A98A00284880 /* 542. 01 Matrix.swift in Sources */,
+				5E448F732B449B22009CA027 /* 2342. Max Sum of a Pair With Equal Sum of Digits .swift in Sources */,
+				5E1AF11D2BCD8D0500ED7B26 /* 1167. Minimum Cost to Connect Sticks.swift in Sources */,
+				5EE3DDFB2BAE03A3003F7686 /* 1299. Replace Elements with Greatest Element on Right Side.swift in Sources */,
+				5E448F5C2B3C5517009CA027 /* main.swift in Sources */,
+				5E56748E2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift in Sources */,
+				5EB616832BC7158C004A5F03 /* 75. Sort Colors.swift in Sources */,
+				5EE3DDF72BAB9263003F7686 /* 1346. Check If N and Its Double Exist.swift in Sources */,
+				5E448F792B460DE0009CA027 /* 771. Jewels and Stones .swift in Sources */,
+				5E41B3212B55C97A00C2B0EE /* 83. Remove Duplicates from Sorted List.swift in Sources */,
+				5EFCD3D92B8B5E0700359C54 /* 199. Binary Tree Right Side View.swift in Sources */,
+				5E1AF1192BC9D8F200ED7B26 /* 295. Find Median from Data Stream.swift in Sources */,
+				5E448F652B3F6E5C009CA027 /* 1248. Count Number of Nice Subarrays .swift in Sources */,
+				5E5C3AA82B718704004CC02C /* 20. Valid Parentheses.swift in Sources */,
+				5EFCD3D72B8A81DD00359C54 /* 543. Diameter of Binary Tree.swift in Sources */,
+				5E5674922B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift in Sources */,
+				5E448F772B460A83009CA027 /* 383. Ransom Note.swift in Sources */,
+				5EB9B3552B9C6B63002FADF5 /* 1971. Find if Path Exists in Graph.swift in Sources */,
+				5E5674902B79304E00D2AAF4 /* 739. Daily Temperatures.swift in Sources */,
+				5EFCD3D12B88A9A800359C54 /* 236. Lowest Common Ancestor of a Binary Tree.swift in Sources */,
+				5E3772212BBB4D64005B2CEC /* 414. Third Maximum Number.swift in Sources */,
+				5E6B9E242B4F442C003740C8 /* 141. Linked List Cycle.swift in Sources */,
+				5E448F6D2B4486FA009CA027 /* 525. Contiguous Array.swift in Sources */,
+				5E448F7B2B474AA6009CA027 /* 3. Longest Substring Without Repeating Characters .swift in Sources */,
+				5E448F672B3F808A009CA027 /* 2225. Find Players With Zero or One Losses .swift in Sources */,
+				5E5C3AA42B6FE12D004CC02C /* 2130. Maximum Twin Sum of a Linked List.swift in Sources */,
+				5E41B3232B5F009700C2B0EE /* 206. Reverse Linked List.swift in Sources */,
+				5E37721F2BB9A9DD005B2CEC /* 1306. Jump Game III.swift in Sources */,
+				5E5BAD6B2B9329270039D1DC /* 701. Insert into a Binary Search Tree.swift in Sources */,
+				5E448F6B2B40AEA0009CA027 /* 1189. Maximum Number of Balloons .swift in Sources */,
+				5E0AA44F2BC294380061D826 /* 1046. Last Stone Weight.swift in Sources */,
+				5EC2AAC82BD284290056B2AB /* TreeNode.swift in Sources */,
+				5EA1C1562B852484005323B0 /* 104. Maximum Depth of Binary Tree.swift in Sources */,
+				5E41B31F2B55C5AF00C2B0EE /* 876. Middle of the Linked List.swift in Sources */,
+				5E1AF11F2BCE9C0000ED7B26 /* 347. Top K Frequent Elements.swift in Sources */,
+				5EFCD3CF2B87CCD200359C54 /* 100. Same Tree.swift in Sources */,
+				5E448F712B44937B009CA027 /* 2260. Minimum Consecutive Cards to Pick Up .swift in Sources */,
+				5E63F7B72BB377580036B95C /* 283. Move Zeroes.swift in Sources */,
+				5EC2AAC32BD12D660056B2AB /* 215. Kth Largest Element in an Array.swift in Sources */,
+				5E4484522BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift in Sources */,
+				5E5C3AAA2B718E60004CC02C /* 1047. Remove All Adjacent Duplicates In String.swift in Sources */,
+				5E5BAD6D2B9478DD0039D1DC /* 270. Closest Binary Search Tree Value.swift in Sources */,
+				5EFCD3DB2B8B635B00359C54 /* 515. Find Largest Value in Each Tree Row.swift in Sources */,
+				5E5C3AA22B6FD863004CC02C /* 24. Swap Nodes in Pairs.swift in Sources */,
+				5EA1C1542B83D87E005323B0 /* 901. Online Stock Span.swift in Sources */,
+				5EB625312B7425300033CE3A /* 1544. Make The String Great.swift in Sources */,
+				5EC2AAC62BD283D90056B2AB /* MaxHeap.swift in Sources */,
+				5E448F692B40A4C5009CA027 /* 1133. Largest Unique Number.swift in Sources */,
+				5EC2AACA2BD284530056B2AB /* ListNode.swift in Sources */,
+				5EE3DDFF2BB0BF0C003F7686 /* 909. Snakes and Ladders.swift in Sources */,
+				5EB9B3572B9E297A002FADF5 /* 323. Number of Connected Components in an Undirected Graph.swift in Sources */,
+				5EFCD3CD2B87C3A800359C54 /* 1448. Count Good Nodes in Binary Tree.swift in Sources */,
+				5EFCD3B62B86977900359C54 /* 112. Path Sum.swift in Sources */,
+				5E40AD772BA8C5940017966A /* 1293. Shortest Path in a Grid with Obstacles Elimination.swift in Sources */,
+				5E1951312B911BCC0072C9B9 /* 98. Validate Binary Search Tree.swift in Sources */,
+				5E1AF11B2BCD892500ED7B26 /* 1962. Remove Stones to Minimize the Total.swift in Sources */,
+				5EFCD3FA2B8D41BC00359C54 /* 1302. Deepest Leaves Sum.swift in Sources */,
+				5EB6252F2B741DBE0033CE3A /* 71. Simplify Path.swift in Sources */,
+				5EA1C1522B83CDF9005323B0 /* 496. Next Greater Element I.swift in Sources */,
+				5E37721B2BB6F79A005B2CEC /* 1051. Height Checker.swift in Sources */,
+				5E8097E12BA3A0A200284880 /* 863. All Nodes Distance K in Binary Tree.swift in Sources */,
+				5EC2AAC12BCFC3660056B2AB /* 658. Find K Closest Elements.swift in Sources */,
+				5E5BAD6F2B95015D0039D1DC /* 547. Number of Provinces.swift in Sources */,
+				5E11C2E32B9F6D1B0068484B /* 695. Max Area of Island.swift in Sources */,
+				5E448F6F2B448DF5009CA027 /* 49. Group Anagrams .swift in Sources */,
+				5ED600292B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift in Sources */,
+				5E448F752B44A704009CA027 /* 2352. Equal Row and Column Pairs .swift in Sources */,
+				5EC2AAD02BD284F20056B2AB /* Prints.swift in Sources */,
+				5E40AD792BA9FE170017966A /* 1129. Shortest Path with Alternating Colors.swift in Sources */,
+				5EC2AACC2BD284990056B2AB /* BST.swift in Sources */,
+				5ED3FCF72BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift in Sources */,
+				5E11C2F32BA0C50A0068484B /* 2368. Reachable Nodes With Restrictions.swift in Sources */,
+				5EB9B3502B9B1D2C002FADF5 /* 1557. Minimum Number of Vertices to Reach All Nodes.swift in Sources */,
+				5EFCD4032B8E66AD00359C54 /* 103. Binary Tree Zigzag Level Order Traversal.swift in Sources */,
+				5EFCD3D52B8A785D00359C54 /* 1026. Maximum Difference Between Node and Ancestor.swift in Sources */,
+				5E448F632B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift in Sources */,
+				5E8227A72B8FC31B008DC5CE /* 938. Range Sum of BST.swift in Sources */,
+				5EE3DDFD2BAF4550003F7686 /* 1926. Nearest Exit from Entrance in Maze.swift in Sources */,
+				5E0AA44B2BC06AB50061D826 /* 2101. Detonate the Maximum Bombs.swift in Sources */,
+				5EC2AACE2BD284CE0056B2AB /* Tree.swift in Sources */,
+				5E8227A92B8FD3D8008DC5CE /* 530. Minimum Absolute Difference in BST.swift in Sources */,
+				5E0AA4512BC4807A0061D826 /* 2208. Minimum Operations to Halve Array Sum.swift in Sources */,
+				5E5C3AAC2B71908A004CC02C /* 844. Backspace String Compare.swift in Sources */,
+				5EF72D8B2BB4CB1100B8CF21 /* 905. Sort Array By Parity.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		5E448F5D2B3C5517009CA027 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		5E448F5E2B3C5517009CA027 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		5E448F602B3C5517009CA027 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QT2PNRUZLR;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		5E448F612B3C5517009CA027 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QT2PNRUZLR;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5E448F532B3C5517009CA027 /* Build configuration list for PBXProject "dataStructures" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5E448F5D2B3C5517009CA027 /* Debug */,
+				5E448F5E2B3C5517009CA027 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5E448F5F2B3C5517009CA027 /* Build configuration list for PBXNativeTarget "dataStructures" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5E448F602B3C5517009CA027 /* Debug */,
+				5E448F612B3C5517009CA027 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5E448F502B3C5517009CA027 /* Project object */;
+}
