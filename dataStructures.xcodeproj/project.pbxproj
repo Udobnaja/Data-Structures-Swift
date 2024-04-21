@@ -83,6 +83,7 @@
 		5EC2AACE2BD284CE0056B2AB /* Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AACD2BD284CE0056B2AB /* Tree.swift */; };
 		5EC2AAD02BD284F20056B2AB /* Prints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AACF2BD284F20056B2AB /* Prints.swift */; };
 		5EC2AAD22BD2A0E00056B2AB /* 973. K Closest Points to Origin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AAD12BD2A0E00056B2AB /* 973. K Closest Points to Origin.swift */; };
+		5EC2AAD62BD594350056B2AB /* 703. Kth Largest Element in a Stream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AAD52BD594350056B2AB /* 703. Kth Largest Element in a Stream.swift */; };
 		5ED3FCF72BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED3FCF62BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift */; };
 		5ED600292B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED600282B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift */; };
 		5EE21D642B966C0900412F48 /* 200. Number of Islands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE21D632B966C0900412F48 /* 200. Number of Islands.swift */; };
@@ -195,6 +196,7 @@
 		5EC2AACD2BD284CE0056B2AB /* Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tree.swift; sourceTree = "<group>"; };
 		5EC2AACF2BD284F20056B2AB /* Prints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prints.swift; sourceTree = "<group>"; };
 		5EC2AAD12BD2A0E00056B2AB /* 973. K Closest Points to Origin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "973. K Closest Points to Origin.swift"; sourceTree = "<group>"; };
+		5EC2AAD52BD594350056B2AB /* 703. Kth Largest Element in a Stream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "703. Kth Largest Element in a Stream.swift"; sourceTree = "<group>"; };
 		5ED3FCF62BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "448. Find All Numbers Disappeared in an Array.swift"; sourceTree = "<group>"; };
 		5ED600282B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1466. Reorder Routes to Make All Paths Lead to the City Zero.swift"; sourceTree = "<group>"; };
 		5EE21D632B966C0900412F48 /* 200. Number of Islands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "200. Number of Islands.swift"; sourceTree = "<group>"; };
@@ -338,6 +340,7 @@
 				5EC2AAC02BCFC3660056B2AB /* 658. Find K Closest Elements.swift */,
 				5EC2AAC22BD12D660056B2AB /* 215. Kth Largest Element in an Array.swift */,
 				5EC2AAD12BD2A0E00056B2AB /* 973. K Closest Points to Origin.swift */,
+				5EC2AAD52BD594350056B2AB /* 703. Kth Largest Element in a Stream.swift */,
 			);
 			path = dataStructures;
 			sourceTree = "<group>";
@@ -435,6 +438,7 @@
 				5E448F792B460DE0009CA027 /* 771. Jewels and Stones .swift in Sources */,
 				5E41B3212B55C97A00C2B0EE /* 83. Remove Duplicates from Sorted List.swift in Sources */,
 				5EFCD3D92B8B5E0700359C54 /* 199. Binary Tree Right Side View.swift in Sources */,
+				5EC2AAD62BD594350056B2AB /* 703. Kth Largest Element in a Stream.swift in Sources */,
 				5E1AF1192BC9D8F200ED7B26 /* 295. Find Median from Data Stream.swift in Sources */,
 				5E448F652B3F6E5C009CA027 /* 1248. Count Number of Nice Subarrays .swift in Sources */,
 				5E5C3AA82B718704004CC02C /* 20. Valid Parentheses.swift in Sources */,
