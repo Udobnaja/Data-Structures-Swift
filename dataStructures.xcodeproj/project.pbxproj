@@ -84,6 +84,7 @@
 		5EC2AAD02BD284F20056B2AB /* Prints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AACF2BD284F20056B2AB /* Prints.swift */; };
 		5EC2AAD22BD2A0E00056B2AB /* 973. K Closest Points to Origin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AAD12BD2A0E00056B2AB /* 973. K Closest Points to Origin.swift */; };
 		5EC2AAD62BD594350056B2AB /* 703. Kth Largest Element in a Stream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AAD52BD594350056B2AB /* 703. Kth Largest Element in a Stream.swift */; };
+		5EC2AAD82BD69EA80056B2AB /* 2126. Destroying Asteroids.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AAD72BD69EA80056B2AB /* 2126. Destroying Asteroids.swift */; };
 		5ED3FCF72BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED3FCF62BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift */; };
 		5ED600292B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED600282B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift */; };
 		5EE21D642B966C0900412F48 /* 200. Number of Islands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE21D632B966C0900412F48 /* 200. Number of Islands.swift */; };
@@ -197,6 +198,7 @@
 		5EC2AACF2BD284F20056B2AB /* Prints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prints.swift; sourceTree = "<group>"; };
 		5EC2AAD12BD2A0E00056B2AB /* 973. K Closest Points to Origin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "973. K Closest Points to Origin.swift"; sourceTree = "<group>"; };
 		5EC2AAD52BD594350056B2AB /* 703. Kth Largest Element in a Stream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "703. Kth Largest Element in a Stream.swift"; sourceTree = "<group>"; };
+		5EC2AAD72BD69EA80056B2AB /* 2126. Destroying Asteroids.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2126. Destroying Asteroids.swift"; sourceTree = "<group>"; };
 		5ED3FCF62BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "448. Find All Numbers Disappeared in an Array.swift"; sourceTree = "<group>"; };
 		5ED600282B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1466. Reorder Routes to Make All Paths Lead to the City Zero.swift"; sourceTree = "<group>"; };
 		5EE21D632B966C0900412F48 /* 200. Number of Islands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "200. Number of Islands.swift"; sourceTree = "<group>"; };
@@ -341,6 +343,7 @@
 				5EC2AAC22BD12D660056B2AB /* 215. Kth Largest Element in an Array.swift */,
 				5EC2AAD12BD2A0E00056B2AB /* 973. K Closest Points to Origin.swift */,
 				5EC2AAD52BD594350056B2AB /* 703. Kth Largest Element in a Stream.swift */,
+				5EC2AAD72BD69EA80056B2AB /* 2126. Destroying Asteroids.swift */,
 			);
 			path = dataStructures;
 			sourceTree = "<group>";
@@ -424,6 +427,7 @@
 				5E3772192BB6F76C005B2CEC /* 399. Evaluate Division.swift in Sources */,
 				5EE3DDF92BACC35E003F7686 /* 941. Valid Mountain Array.swift in Sources */,
 				5EB9B34E2B9A2CD1002FADF5 /* 841. Keys and Rooms.swift in Sources */,
+				5EC2AAD82BD69EA80056B2AB /* 2126. Destroying Asteroids.swift in Sources */,
 				5E5C3AA62B700437004CC02C /* 92. Reverse Linked List II.swift in Sources */,
 				5EE21D642B966C0900412F48 /* 200. Number of Islands.swift in Sources */,
 				5EB5F7E22B7AC64D00622BF1 /* 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.swift in Sources */,
