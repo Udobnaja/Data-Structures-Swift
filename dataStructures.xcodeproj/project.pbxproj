@@ -86,6 +86,8 @@
 		5EC2AAD62BD594350056B2AB /* 703. Kth Largest Element in a Stream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AAD52BD594350056B2AB /* 703. Kth Largest Element in a Stream.swift */; };
 		5EC2AAD82BD69EA80056B2AB /* 2126. Destroying Asteroids.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AAD72BD69EA80056B2AB /* 2126. Destroying Asteroids.swift */; };
 		5EC2AADA2BD82E9A0056B2AB /* 2294. Partition Array Such That Maximum Difference Is K.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AAD92BD82E9A0056B2AB /* 2294. Partition Array Such That Maximum Difference Is K.swift */; };
+		5EC2AADC2BD956190056B2AB /* 502. IPO.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AADB2BD956190056B2AB /* 502. IPO.swift */; };
+		5EC2AADE2BDABBC00056B2AB /* 1481. Least Number of Unique Integers after K Removals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AADD2BDABBC00056B2AB /* 1481. Least Number of Unique Integers after K Removals.swift */; };
 		5ED3FCF72BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED3FCF62BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift */; };
 		5ED600292B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED600282B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift */; };
 		5EE21D642B966C0900412F48 /* 200. Number of Islands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE21D632B966C0900412F48 /* 200. Number of Islands.swift */; };
@@ -201,6 +203,8 @@
 		5EC2AAD52BD594350056B2AB /* 703. Kth Largest Element in a Stream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "703. Kth Largest Element in a Stream.swift"; sourceTree = "<group>"; };
 		5EC2AAD72BD69EA80056B2AB /* 2126. Destroying Asteroids.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2126. Destroying Asteroids.swift"; sourceTree = "<group>"; };
 		5EC2AAD92BD82E9A0056B2AB /* 2294. Partition Array Such That Maximum Difference Is K.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2294. Partition Array Such That Maximum Difference Is K.swift"; sourceTree = "<group>"; };
+		5EC2AADB2BD956190056B2AB /* 502. IPO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "502. IPO.swift"; sourceTree = "<group>"; };
+		5EC2AADD2BDABBC00056B2AB /* 1481. Least Number of Unique Integers after K Removals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1481. Least Number of Unique Integers after K Removals.swift"; sourceTree = "<group>"; };
 		5ED3FCF62BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "448. Find All Numbers Disappeared in an Array.swift"; sourceTree = "<group>"; };
 		5ED600282B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1466. Reorder Routes to Make All Paths Lead to the City Zero.swift"; sourceTree = "<group>"; };
 		5EE21D632B966C0900412F48 /* 200. Number of Islands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "200. Number of Islands.swift"; sourceTree = "<group>"; };
@@ -347,6 +351,8 @@
 				5EC2AAD52BD594350056B2AB /* 703. Kth Largest Element in a Stream.swift */,
 				5EC2AAD72BD69EA80056B2AB /* 2126. Destroying Asteroids.swift */,
 				5EC2AAD92BD82E9A0056B2AB /* 2294. Partition Array Such That Maximum Difference Is K.swift */,
+				5EC2AADB2BD956190056B2AB /* 502. IPO.swift */,
+				5EC2AADD2BDABBC00056B2AB /* 1481. Least Number of Unique Integers after K Removals.swift */,
 			);
 			path = dataStructures;
 			sourceTree = "<group>";
@@ -426,6 +432,7 @@
 				5E0AA44D2BC150000061D826 /* 127. Word Ladder.swift in Sources */,
 				5E37721D2BB88D78005B2CEC /* 433. Minimum Genetic Mutation.swift in Sources */,
 				5EBAE0D32BB20C6700112CAF /* 752. Open the Lock.swift in Sources */,
+				5EC2AADE2BDABBC00056B2AB /* 1481. Least Number of Unique Integers after K Removals.swift in Sources */,
 				5EFCD3D32B88C13300359C54 /* 111. Minimum Depth of Binary Tree.swift in Sources */,
 				5E3772192BB6F76C005B2CEC /* 399. Evaluate Division.swift in Sources */,
 				5EE3DDF92BACC35E003F7686 /* 941. Valid Mountain Array.swift in Sources */,
@@ -468,6 +475,7 @@
 				5E5BAD6B2B9329270039D1DC /* 701. Insert into a Binary Search Tree.swift in Sources */,
 				5E448F6B2B40AEA0009CA027 /* 1189. Maximum Number of Balloons .swift in Sources */,
 				5E0AA44F2BC294380061D826 /* 1046. Last Stone Weight.swift in Sources */,
+				5EC2AADC2BD956190056B2AB /* 502. IPO.swift in Sources */,
 				5EC2AAC82BD284290056B2AB /* TreeNode.swift in Sources */,
 				5EA1C1562B852484005323B0 /* 104. Maximum Depth of Binary Tree.swift in Sources */,
 				5E41B31F2B55C5AF00C2B0EE /* 876. Middle of the Linked List.swift in Sources */,
