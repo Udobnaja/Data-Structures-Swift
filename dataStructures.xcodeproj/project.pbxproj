@@ -88,6 +88,7 @@
 		5EC2AADA2BD82E9A0056B2AB /* 2294. Partition Array Such That Maximum Difference Is K.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AAD92BD82E9A0056B2AB /* 2294. Partition Array Such That Maximum Difference Is K.swift */; };
 		5EC2AADC2BD956190056B2AB /* 502. IPO.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AADB2BD956190056B2AB /* 502. IPO.swift */; };
 		5EC2AADE2BDABBC00056B2AB /* 1481. Least Number of Unique Integers after K Removals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AADD2BDABBC00056B2AB /* 1481. Least Number of Unique Integers after K Removals.swift */; };
+		5EC2AAE02BDC1D0F0056B2AB /* 881. Boats to Save People.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC2AADF2BDC1D0F0056B2AB /* 881. Boats to Save People.swift */; };
 		5ED3FCF72BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED3FCF62BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift */; };
 		5ED600292B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED600282B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift */; };
 		5EE21D642B966C0900412F48 /* 200. Number of Islands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE21D632B966C0900412F48 /* 200. Number of Islands.swift */; };
@@ -205,6 +206,7 @@
 		5EC2AAD92BD82E9A0056B2AB /* 2294. Partition Array Such That Maximum Difference Is K.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2294. Partition Array Such That Maximum Difference Is K.swift"; sourceTree = "<group>"; };
 		5EC2AADB2BD956190056B2AB /* 502. IPO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "502. IPO.swift"; sourceTree = "<group>"; };
 		5EC2AADD2BDABBC00056B2AB /* 1481. Least Number of Unique Integers after K Removals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1481. Least Number of Unique Integers after K Removals.swift"; sourceTree = "<group>"; };
+		5EC2AADF2BDC1D0F0056B2AB /* 881. Boats to Save People.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "881. Boats to Save People.swift"; sourceTree = "<group>"; };
 		5ED3FCF62BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "448. Find All Numbers Disappeared in an Array.swift"; sourceTree = "<group>"; };
 		5ED600282B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1466. Reorder Routes to Make All Paths Lead to the City Zero.swift"; sourceTree = "<group>"; };
 		5EE21D632B966C0900412F48 /* 200. Number of Islands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "200. Number of Islands.swift"; sourceTree = "<group>"; };
@@ -353,6 +355,7 @@
 				5EC2AAD92BD82E9A0056B2AB /* 2294. Partition Array Such That Maximum Difference Is K.swift */,
 				5EC2AADB2BD956190056B2AB /* 502. IPO.swift */,
 				5EC2AADD2BDABBC00056B2AB /* 1481. Least Number of Unique Integers after K Removals.swift */,
+				5EC2AADF2BDC1D0F0056B2AB /* 881. Boats to Save People.swift */,
 			);
 			path = dataStructures;
 			sourceTree = "<group>";
@@ -487,6 +490,7 @@
 				5E4484522BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift in Sources */,
 				5E5C3AAA2B718E60004CC02C /* 1047. Remove All Adjacent Duplicates In String.swift in Sources */,
 				5E5BAD6D2B9478DD0039D1DC /* 270. Closest Binary Search Tree Value.swift in Sources */,
+				5EC2AAE02BDC1D0F0056B2AB /* 881. Boats to Save People.swift in Sources */,
 				5EFCD3DB2B8B635B00359C54 /* 515. Find Largest Value in Each Tree Row.swift in Sources */,
 				5E5C3AA22B6FD863004CC02C /* 24. Swap Nodes in Pairs.swift in Sources */,
 				5EA1C1542B83D87E005323B0 /* 901. Online Stock Span.swift in Sources */,
