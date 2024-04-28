@@ -43,6 +43,7 @@
 		5E448F772B460A83009CA027 /* 383. Ransom Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F762B460A83009CA027 /* 383. Ransom Note.swift */; };
 		5E448F792B460DE0009CA027 /* 771. Jewels and Stones .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F782B460DE0009CA027 /* 771. Jewels and Stones .swift */; };
 		5E448F7B2B474AA6009CA027 /* 3. Longest Substring Without Repeating Characters .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F7A2B474AA6009CA027 /* 3. Longest Substring Without Repeating Characters .swift */; };
+		5E4998122BDEBAD300A01777 /* 1710. Maximum Units on a Truck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998112BDEBAD300A01777 /* 1710. Maximum Units on a Truck.swift */; };
 		5E56748E2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */; };
 		5E5674902B79304E00D2AAF4 /* 739. Daily Temperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */; };
 		5E5674922B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5674912B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift */; };
@@ -162,6 +163,7 @@
 		5E448F762B460A83009CA027 /* 383. Ransom Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "383. Ransom Note.swift"; sourceTree = "<group>"; };
 		5E448F782B460DE0009CA027 /* 771. Jewels and Stones .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "771. Jewels and Stones .swift"; sourceTree = "<group>"; };
 		5E448F7A2B474AA6009CA027 /* 3. Longest Substring Without Repeating Characters .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3. Longest Substring Without Repeating Characters .swift"; sourceTree = "<group>"; };
+		5E4998112BDEBAD300A01777 /* 1710. Maximum Units on a Truck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1710. Maximum Units on a Truck.swift"; sourceTree = "<group>"; };
 		5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "933. Number of Recent Calls.swift"; sourceTree = "<group>"; };
 		5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "739. Daily Temperatures.swift"; sourceTree = "<group>"; };
 		5E5674912B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "346. Moving Average from Data Stream.swift"; sourceTree = "<group>"; };
@@ -359,6 +361,7 @@
 				5EC2AADD2BDABBC00056B2AB /* 1481. Least Number of Unique Integers after K Removals.swift */,
 				5EC2AADF2BDC1D0F0056B2AB /* 881. Boats to Save People.swift */,
 				5EC2AAE12BDD81930056B2AB /* 1323. Maximum 69 Number.swift */,
+				5E4998112BDEBAD300A01777 /* 1710. Maximum Units on a Truck.swift */,
 			);
 			path = dataStructures;
 			sourceTree = "<group>";
@@ -512,6 +515,7 @@
 				5EFCD3FA2B8D41BC00359C54 /* 1302. Deepest Leaves Sum.swift in Sources */,
 				5EB6252F2B741DBE0033CE3A /* 71. Simplify Path.swift in Sources */,
 				5EA1C1522B83CDF9005323B0 /* 496. Next Greater Element I.swift in Sources */,
+				5E4998122BDEBAD300A01777 /* 1710. Maximum Units on a Truck.swift in Sources */,
 				5E37721B2BB6F79A005B2CEC /* 1051. Height Checker.swift in Sources */,
 				5E8097E12BA3A0A200284880 /* 863. All Nodes Distance K in Binary Tree.swift in Sources */,
 				5EC2AAC12BCFC3660056B2AB /* 658. Find K Closest Elements.swift in Sources */,
@@ -665,7 +669,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = QT2PNRUZLR;
+				DEVELOPMENT_TEAM = DK4L8Y4S58;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -676,7 +680,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = QT2PNRUZLR;
+				DEVELOPMENT_TEAM = DK4L8Y4S58;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
