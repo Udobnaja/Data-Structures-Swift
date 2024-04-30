@@ -45,6 +45,7 @@
 		5E448F7B2B474AA6009CA027 /* 3. Longest Substring Without Repeating Characters .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F7A2B474AA6009CA027 /* 3. Longest Substring Without Repeating Characters .swift */; };
 		5E4998122BDEBAD300A01777 /* 1710. Maximum Units on a Truck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998112BDEBAD300A01777 /* 1710. Maximum Units on a Truck.swift */; };
 		5E4998142BDFCD9F00A01777 /* 1196. How Many Apples Can You Put into the Basket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998132BDFCD9F00A01777 /* 1196. How Many Apples Can You Put into the Basket.swift */; };
+		5E4998162BE1153900A01777 /* 1338. Reduce Array Size to The Half.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998152BE1153900A01777 /* 1338. Reduce Array Size to The Half.swift */; };
 		5E56748E2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */; };
 		5E5674902B79304E00D2AAF4 /* 739. Daily Temperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */; };
 		5E5674922B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5674912B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift */; };
@@ -166,6 +167,7 @@
 		5E448F7A2B474AA6009CA027 /* 3. Longest Substring Without Repeating Characters .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3. Longest Substring Without Repeating Characters .swift"; sourceTree = "<group>"; };
 		5E4998112BDEBAD300A01777 /* 1710. Maximum Units on a Truck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1710. Maximum Units on a Truck.swift"; sourceTree = "<group>"; };
 		5E4998132BDFCD9F00A01777 /* 1196. How Many Apples Can You Put into the Basket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1196. How Many Apples Can You Put into the Basket.swift"; sourceTree = "<group>"; };
+		5E4998152BE1153900A01777 /* 1338. Reduce Array Size to The Half.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1338. Reduce Array Size to The Half.swift"; sourceTree = "<group>"; };
 		5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "933. Number of Recent Calls.swift"; sourceTree = "<group>"; };
 		5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "739. Daily Temperatures.swift"; sourceTree = "<group>"; };
 		5E5674912B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "346. Moving Average from Data Stream.swift"; sourceTree = "<group>"; };
@@ -365,6 +367,7 @@
 				5EC2AAE12BDD81930056B2AB /* 1323. Maximum 69 Number.swift */,
 				5E4998112BDEBAD300A01777 /* 1710. Maximum Units on a Truck.swift */,
 				5E4998132BDFCD9F00A01777 /* 1196. How Many Apples Can You Put into the Basket.swift */,
+				5E4998152BE1153900A01777 /* 1338. Reduce Array Size to The Half.swift */,
 			);
 			path = dataStructures;
 			sourceTree = "<group>";
@@ -524,6 +527,7 @@
 				5E8097E12BA3A0A200284880 /* 863. All Nodes Distance K in Binary Tree.swift in Sources */,
 				5EC2AAC12BCFC3660056B2AB /* 658. Find K Closest Elements.swift in Sources */,
 				5E5BAD6F2B95015D0039D1DC /* 547. Number of Provinces.swift in Sources */,
+				5E4998162BE1153900A01777 /* 1338. Reduce Array Size to The Half.swift in Sources */,
 				5E11C2E32B9F6D1B0068484B /* 695. Max Area of Island.swift in Sources */,
 				5E448F6F2B448DF5009CA027 /* 49. Group Anagrams .swift in Sources */,
 				5ED600292B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift in Sources */,
