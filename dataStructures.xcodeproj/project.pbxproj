@@ -48,6 +48,7 @@
 		5E4998162BE1153900A01777 /* 1338. Reduce Array Size to The Half.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998152BE1153900A01777 /* 1338. Reduce Array Size to The Half.swift */; };
 		5E4998182BE2B2D200A01777 /* 704. Binary Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998172BE2B2D200A01777 /* 704. Binary Search.swift */; };
 		5E49981A2BE415A600A01777 /* 74. Search a 2D Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998192BE415A600A01777 /* 74. Search a 2D Matrix.swift */; };
+		5E49981C2BE546DF00A01777 /* 2300. Successful Pairs of Spells and Potions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E49981B2BE546DF00A01777 /* 2300. Successful Pairs of Spells and Potions.swift */; };
 		5E56748E2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */; };
 		5E5674902B79304E00D2AAF4 /* 739. Daily Temperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */; };
 		5E5674922B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5674912B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift */; };
@@ -172,6 +173,7 @@
 		5E4998152BE1153900A01777 /* 1338. Reduce Array Size to The Half.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1338. Reduce Array Size to The Half.swift"; sourceTree = "<group>"; };
 		5E4998172BE2B2D200A01777 /* 704. Binary Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "704. Binary Search.swift"; sourceTree = "<group>"; };
 		5E4998192BE415A600A01777 /* 74. Search a 2D Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74. Search a 2D Matrix.swift"; sourceTree = "<group>"; };
+		5E49981B2BE546DF00A01777 /* 2300. Successful Pairs of Spells and Potions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2300. Successful Pairs of Spells and Potions.swift"; sourceTree = "<group>"; };
 		5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "933. Number of Recent Calls.swift"; sourceTree = "<group>"; };
 		5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "739. Daily Temperatures.swift"; sourceTree = "<group>"; };
 		5E5674912B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "346. Moving Average from Data Stream.swift"; sourceTree = "<group>"; };
@@ -374,6 +376,7 @@
 				5E4998152BE1153900A01777 /* 1338. Reduce Array Size to The Half.swift */,
 				5E4998172BE2B2D200A01777 /* 704. Binary Search.swift */,
 				5E4998192BE415A600A01777 /* 74. Search a 2D Matrix.swift */,
+				5E49981B2BE546DF00A01777 /* 2300. Successful Pairs of Spells and Potions.swift */,
 			);
 			path = dataStructures;
 			sourceTree = "<group>";
@@ -474,6 +477,7 @@
 				5E448F792B460DE0009CA027 /* 771. Jewels and Stones .swift in Sources */,
 				5E41B3212B55C97A00C2B0EE /* 83. Remove Duplicates from Sorted List.swift in Sources */,
 				5EFCD3D92B8B5E0700359C54 /* 199. Binary Tree Right Side View.swift in Sources */,
+				5E49981C2BE546DF00A01777 /* 2300. Successful Pairs of Spells and Potions.swift in Sources */,
 				5EC2AAD62BD594350056B2AB /* 703. Kth Largest Element in a Stream.swift in Sources */,
 				5E1AF1192BC9D8F200ED7B26 /* 295. Find Median from Data Stream.swift in Sources */,
 				5E448F652B3F6E5C009CA027 /* 1248. Count Number of Nice Subarrays .swift in Sources */,
