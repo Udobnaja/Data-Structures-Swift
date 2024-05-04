@@ -49,6 +49,7 @@
 		5E4998182BE2B2D200A01777 /* 704. Binary Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998172BE2B2D200A01777 /* 704. Binary Search.swift */; };
 		5E49981A2BE415A600A01777 /* 74. Search a 2D Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998192BE415A600A01777 /* 74. Search a 2D Matrix.swift */; };
 		5E49981C2BE546DF00A01777 /* 2300. Successful Pairs of Spells and Potions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E49981B2BE546DF00A01777 /* 2300. Successful Pairs of Spells and Potions.swift */; };
+		5E49981E2BE689E100A01777 /* 35. Search Insert Position.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E49981D2BE689E100A01777 /* 35. Search Insert Position.swift */; };
 		5E56748E2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */; };
 		5E5674902B79304E00D2AAF4 /* 739. Daily Temperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */; };
 		5E5674922B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5674912B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift */; };
@@ -174,6 +175,7 @@
 		5E4998172BE2B2D200A01777 /* 704. Binary Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "704. Binary Search.swift"; sourceTree = "<group>"; };
 		5E4998192BE415A600A01777 /* 74. Search a 2D Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74. Search a 2D Matrix.swift"; sourceTree = "<group>"; };
 		5E49981B2BE546DF00A01777 /* 2300. Successful Pairs of Spells and Potions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2300. Successful Pairs of Spells and Potions.swift"; sourceTree = "<group>"; };
+		5E49981D2BE689E100A01777 /* 35. Search Insert Position.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "35. Search Insert Position.swift"; sourceTree = "<group>"; };
 		5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "933. Number of Recent Calls.swift"; sourceTree = "<group>"; };
 		5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "739. Daily Temperatures.swift"; sourceTree = "<group>"; };
 		5E5674912B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "346. Moving Average from Data Stream.swift"; sourceTree = "<group>"; };
@@ -377,6 +379,7 @@
 				5E4998172BE2B2D200A01777 /* 704. Binary Search.swift */,
 				5E4998192BE415A600A01777 /* 74. Search a 2D Matrix.swift */,
 				5E49981B2BE546DF00A01777 /* 2300. Successful Pairs of Spells and Potions.swift */,
+				5E49981D2BE689E100A01777 /* 35. Search Insert Position.swift */,
 			);
 			path = dataStructures;
 			sourceTree = "<group>";
@@ -462,6 +465,7 @@
 				5EE3DDF92BACC35E003F7686 /* 941. Valid Mountain Array.swift in Sources */,
 				5EB9B34E2B9A2CD1002FADF5 /* 841. Keys and Rooms.swift in Sources */,
 				5EC2AAD82BD69EA80056B2AB /* 2126. Destroying Asteroids.swift in Sources */,
+				5E49981E2BE689E100A01777 /* 35. Search Insert Position.swift in Sources */,
 				5E5C3AA62B700437004CC02C /* 92. Reverse Linked List II.swift in Sources */,
 				5EE21D642B966C0900412F48 /* 200. Number of Islands.swift in Sources */,
 				5EB5F7E22B7AC64D00622BF1 /* 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.swift in Sources */,
