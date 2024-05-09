@@ -54,6 +54,7 @@
 		5E4998222BE90B9C00A01777 /* 875. Koko Eating Bananas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998212BE90B9C00A01777 /* 875. Koko Eating Bananas.swift */; };
 		5E4998242BEA8BD600A01777 /* 1631. Path With Minimum Effort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998232BEA8BD600A01777 /* 1631. Path With Minimum Effort.swift */; };
 		5E4998262BEBBF0500A01777 /* 1870. Minimum Speed to Arrive on Time.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998252BEBBF0500A01777 /* 1870. Minimum Speed to Arrive on Time.swift */; };
+		5E4998282BED1FA700A01777 /* 1283. Find the Smallest Divisor Given a Threshold.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998272BED1FA700A01777 /* 1283. Find the Smallest Divisor Given a Threshold.swift */; };
 		5E56748E2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */; };
 		5E5674902B79304E00D2AAF4 /* 739. Daily Temperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */; };
 		5E5674922B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5674912B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift */; };
@@ -184,6 +185,7 @@
 		5E4998212BE90B9C00A01777 /* 875. Koko Eating Bananas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "875. Koko Eating Bananas.swift"; sourceTree = "<group>"; };
 		5E4998232BEA8BD600A01777 /* 1631. Path With Minimum Effort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1631. Path With Minimum Effort.swift"; sourceTree = "<group>"; };
 		5E4998252BEBBF0500A01777 /* 1870. Minimum Speed to Arrive on Time.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1870. Minimum Speed to Arrive on Time.swift"; sourceTree = "<group>"; };
+		5E4998272BED1FA700A01777 /* 1283. Find the Smallest Divisor Given a Threshold.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1283. Find the Smallest Divisor Given a Threshold.swift"; sourceTree = "<group>"; };
 		5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "933. Number of Recent Calls.swift"; sourceTree = "<group>"; };
 		5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "739. Daily Temperatures.swift"; sourceTree = "<group>"; };
 		5E5674912B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "346. Moving Average from Data Stream.swift"; sourceTree = "<group>"; };
@@ -392,6 +394,7 @@
 				5E4998212BE90B9C00A01777 /* 875. Koko Eating Bananas.swift */,
 				5E4998232BEA8BD600A01777 /* 1631. Path With Minimum Effort.swift */,
 				5E4998252BEBBF0500A01777 /* 1870. Minimum Speed to Arrive on Time.swift */,
+				5E4998272BED1FA700A01777 /* 1283. Find the Smallest Divisor Given a Threshold.swift */,
 			);
 			path = dataStructures;
 			sourceTree = "<group>";
@@ -580,6 +583,7 @@
 				5E8227A92B8FD3D8008DC5CE /* 530. Minimum Absolute Difference in BST.swift in Sources */,
 				5E0AA4512BC4807A0061D826 /* 2208. Minimum Operations to Halve Array Sum.swift in Sources */,
 				5E5C3AAC2B71908A004CC02C /* 844. Backspace String Compare.swift in Sources */,
+				5E4998282BED1FA700A01777 /* 1283. Find the Smallest Divisor Given a Threshold.swift in Sources */,
 				5EF72D8B2BB4CB1100B8CF21 /* 905. Sort Array By Parity.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
