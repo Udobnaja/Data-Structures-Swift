@@ -57,6 +57,7 @@
 		5E4998282BED1FA700A01777 /* 1283. Find the Smallest Divisor Given a Threshold.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998272BED1FA700A01777 /* 1283. Find the Smallest Divisor Given a Threshold.swift */; };
 		5E49982A2BEEA94900A01777 /* 1231. Divide Chocolate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998292BEEA94900A01777 /* 1231. Divide Chocolate.swift */; };
 		5E49982C2BF120F900A01777 /* 410. Split Array Largest Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E49982B2BF120F900A01777 /* 410. Split Array Largest Sum.swift */; };
+		5E49982E2BF3E89700A01777 /* 46. Permutations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E49982D2BF3E89700A01777 /* 46. Permutations.swift */; };
 		5E56748E2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */; };
 		5E5674902B79304E00D2AAF4 /* 739. Daily Temperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */; };
 		5E5674922B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5674912B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift */; };
@@ -190,6 +191,7 @@
 		5E4998272BED1FA700A01777 /* 1283. Find the Smallest Divisor Given a Threshold.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1283. Find the Smallest Divisor Given a Threshold.swift"; sourceTree = "<group>"; };
 		5E4998292BEEA94900A01777 /* 1231. Divide Chocolate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1231. Divide Chocolate.swift"; sourceTree = "<group>"; };
 		5E49982B2BF120F900A01777 /* 410. Split Array Largest Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "410. Split Array Largest Sum.swift"; sourceTree = "<group>"; };
+		5E49982D2BF3E89700A01777 /* 46. Permutations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "46. Permutations.swift"; sourceTree = "<group>"; };
 		5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "933. Number of Recent Calls.swift"; sourceTree = "<group>"; };
 		5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "739. Daily Temperatures.swift"; sourceTree = "<group>"; };
 		5E5674912B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "346. Moving Average from Data Stream.swift"; sourceTree = "<group>"; };
@@ -401,6 +403,7 @@
 				5E4998272BED1FA700A01777 /* 1283. Find the Smallest Divisor Given a Threshold.swift */,
 				5E4998292BEEA94900A01777 /* 1231. Divide Chocolate.swift */,
 				5E49982B2BF120F900A01777 /* 410. Split Array Largest Sum.swift */,
+				5E49982D2BF3E89700A01777 /* 46. Permutations.swift */,
 			);
 			path = dataStructures;
 			sourceTree = "<group>";
@@ -550,6 +553,7 @@
 				5EFCD3DB2B8B635B00359C54 /* 515. Find Largest Value in Each Tree Row.swift in Sources */,
 				5E5C3AA22B6FD863004CC02C /* 24. Swap Nodes in Pairs.swift in Sources */,
 				5EA1C1542B83D87E005323B0 /* 901. Online Stock Span.swift in Sources */,
+				5E49982E2BF3E89700A01777 /* 46. Permutations.swift in Sources */,
 				5EB625312B7425300033CE3A /* 1544. Make The String Great.swift in Sources */,
 				5EC2AAC62BD283D90056B2AB /* MaxHeap.swift in Sources */,
 				5E448F692B40A4C5009CA027 /* 1133. Largest Unique Number.swift in Sources */,
