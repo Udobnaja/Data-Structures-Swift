@@ -60,6 +60,7 @@
 		5E49982E2BF3E89700A01777 /* 46. Permutations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E49982D2BF3E89700A01777 /* 46. Permutations.swift */; };
 		5E4998302BF5136500A01777 /* 78. Subsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E49982F2BF5136500A01777 /* 78. Subsets.swift */; };
 		5E4998322BF670DB00A01777 /* 77. Combinations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998312BF670DB00A01777 /* 77. Combinations.swift */; };
+		5E4998342BF7999300A01777 /* 797. All Paths From Source to Target.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998332BF7999300A01777 /* 797. All Paths From Source to Target.swift */; };
 		5E56748E2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */; };
 		5E5674902B79304E00D2AAF4 /* 739. Daily Temperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */; };
 		5E5674922B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5674912B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift */; };
@@ -196,6 +197,7 @@
 		5E49982D2BF3E89700A01777 /* 46. Permutations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "46. Permutations.swift"; sourceTree = "<group>"; };
 		5E49982F2BF5136500A01777 /* 78. Subsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "78. Subsets.swift"; sourceTree = "<group>"; };
 		5E4998312BF670DB00A01777 /* 77. Combinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "77. Combinations.swift"; sourceTree = "<group>"; };
+		5E4998332BF7999300A01777 /* 797. All Paths From Source to Target.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "797. All Paths From Source to Target.swift"; sourceTree = "<group>"; };
 		5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "933. Number of Recent Calls.swift"; sourceTree = "<group>"; };
 		5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "739. Daily Temperatures.swift"; sourceTree = "<group>"; };
 		5E5674912B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "346. Moving Average from Data Stream.swift"; sourceTree = "<group>"; };
@@ -410,6 +412,7 @@
 				5E49982D2BF3E89700A01777 /* 46. Permutations.swift */,
 				5E49982F2BF5136500A01777 /* 78. Subsets.swift */,
 				5E4998312BF670DB00A01777 /* 77. Combinations.swift */,
+				5E4998332BF7999300A01777 /* 797. All Paths From Source to Target.swift */,
 			);
 			path = dataStructures;
 			sourceTree = "<group>";
@@ -536,6 +539,7 @@
 				5E448F7B2B474AA6009CA027 /* 3. Longest Substring Without Repeating Characters .swift in Sources */,
 				5E4998302BF5136500A01777 /* 78. Subsets.swift in Sources */,
 				5E448F672B3F808A009CA027 /* 2225. Find Players With Zero or One Losses .swift in Sources */,
+				5E4998342BF7999300A01777 /* 797. All Paths From Source to Target.swift in Sources */,
 				5E5C3AA42B6FE12D004CC02C /* 2130. Maximum Twin Sum of a Linked List.swift in Sources */,
 				5E41B3232B5F009700C2B0EE /* 206. Reverse Linked List.swift in Sources */,
 				5E37721F2BB9A9DD005B2CEC /* 1306. Jump Game III.swift in Sources */,
