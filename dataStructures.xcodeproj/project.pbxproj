@@ -62,6 +62,7 @@
 		5E4998322BF670DB00A01777 /* 77. Combinations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998312BF670DB00A01777 /* 77. Combinations.swift */; };
 		5E4998342BF7999300A01777 /* 797. All Paths From Source to Target.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998332BF7999300A01777 /* 797. All Paths From Source to Target.swift */; };
 		5E4998362BF92DB000A01777 /* 17. Letter Combinations of a Phone Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998352BF92DB000A01777 /* 17. Letter Combinations of a Phone Number.swift */; };
+		5E4998382BFB600E00A01777 /* 39. Combination Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998372BFB600E00A01777 /* 39. Combination Sum.swift */; };
 		5E56748E2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */; };
 		5E5674902B79304E00D2AAF4 /* 739. Daily Temperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */; };
 		5E5674922B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5674912B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift */; };
@@ -200,6 +201,7 @@
 		5E4998312BF670DB00A01777 /* 77. Combinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "77. Combinations.swift"; sourceTree = "<group>"; };
 		5E4998332BF7999300A01777 /* 797. All Paths From Source to Target.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "797. All Paths From Source to Target.swift"; sourceTree = "<group>"; };
 		5E4998352BF92DB000A01777 /* 17. Letter Combinations of a Phone Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17. Letter Combinations of a Phone Number.swift"; sourceTree = "<group>"; };
+		5E4998372BFB600E00A01777 /* 39. Combination Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "39. Combination Sum.swift"; sourceTree = "<group>"; };
 		5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "933. Number of Recent Calls.swift"; sourceTree = "<group>"; };
 		5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "739. Daily Temperatures.swift"; sourceTree = "<group>"; };
 		5E5674912B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "346. Moving Average from Data Stream.swift"; sourceTree = "<group>"; };
@@ -416,6 +418,7 @@
 				5E4998312BF670DB00A01777 /* 77. Combinations.swift */,
 				5E4998332BF7999300A01777 /* 797. All Paths From Source to Target.swift */,
 				5E4998352BF92DB000A01777 /* 17. Letter Combinations of a Phone Number.swift */,
+				5E4998372BFB600E00A01777 /* 39. Combination Sum.swift */,
 			);
 			path = dataStructures;
 			sourceTree = "<group>";
@@ -551,6 +554,7 @@
 				5E448F6B2B40AEA0009CA027 /* 1189. Maximum Number of Balloons .swift in Sources */,
 				5E0AA44F2BC294380061D826 /* 1046. Last Stone Weight.swift in Sources */,
 				5EC2AADC2BD956190056B2AB /* 502. IPO.swift in Sources */,
+				5E4998382BFB600E00A01777 /* 39. Combination Sum.swift in Sources */,
 				5EC2AAC82BD284290056B2AB /* TreeNode.swift in Sources */,
 				5E4998322BF670DB00A01777 /* 77. Combinations.swift in Sources */,
 				5EA1C1562B852484005323B0 /* 104. Maximum Depth of Binary Tree.swift in Sources */,

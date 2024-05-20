@@ -23,10 +23,10 @@ func letterCombinations(_ digits: String) -> [String] {
         "9": ["w", "x", "y", "z"]
     ]
     
-    func backtrace(_ cur: [String], _ index: Int) {
+    func backtrace(_ cur: String, _ index: Int) {
         guard cur.count != digits.count else {
             guard !cur.isEmpty else { return }
-            ans.append(cur.joined())
+            ans.append(cur)
             return
         }
         
@@ -39,7 +39,7 @@ func letterCombinations(_ digits: String) -> [String] {
         }
     }
     
-    backtrace([], 0)
+    backtrace("", 0)
     
     return ans
 }
