@@ -63,6 +63,9 @@
 		5E4998342BF7999300A01777 /* 797. All Paths From Source to Target.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998332BF7999300A01777 /* 797. All Paths From Source to Target.swift */; };
 		5E4998362BF92DB000A01777 /* 17. Letter Combinations of a Phone Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998352BF92DB000A01777 /* 17. Letter Combinations of a Phone Number.swift */; };
 		5E4998382BFB600E00A01777 /* 39. Combination Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998372BFB600E00A01777 /* 39. Combination Sum.swift */; };
+		5E49983A2C02103A00A01777 /* 52. N-Queens II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998392C02103A00A01777 /* 52. N-Queens II.swift */; };
+		5E49983C2C02107800A01777 /* 79. Word Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E49983B2C02107800A01777 /* 79. Word Search.swift */; };
+		5E49983E2C1B888100A01777 /* 22. Generate Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E49983D2C1B888100A01777 /* 22. Generate Parentheses.swift */; };
 		5E56748E2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */; };
 		5E5674902B79304E00D2AAF4 /* 739. Daily Temperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */; };
 		5E5674922B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5674912B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift */; };
@@ -202,6 +205,9 @@
 		5E4998332BF7999300A01777 /* 797. All Paths From Source to Target.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "797. All Paths From Source to Target.swift"; sourceTree = "<group>"; };
 		5E4998352BF92DB000A01777 /* 17. Letter Combinations of a Phone Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17. Letter Combinations of a Phone Number.swift"; sourceTree = "<group>"; };
 		5E4998372BFB600E00A01777 /* 39. Combination Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "39. Combination Sum.swift"; sourceTree = "<group>"; };
+		5E4998392C02103A00A01777 /* 52. N-Queens II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "52. N-Queens II.swift"; sourceTree = "<group>"; };
+		5E49983B2C02107800A01777 /* 79. Word Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "79. Word Search.swift"; sourceTree = "<group>"; };
+		5E49983D2C1B888100A01777 /* 22. Generate Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "22. Generate Parentheses.swift"; sourceTree = "<group>"; };
 		5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "933. Number of Recent Calls.swift"; sourceTree = "<group>"; };
 		5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "739. Daily Temperatures.swift"; sourceTree = "<group>"; };
 		5E5674912B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "346. Moving Average from Data Stream.swift"; sourceTree = "<group>"; };
@@ -419,6 +425,9 @@
 				5E4998332BF7999300A01777 /* 797. All Paths From Source to Target.swift */,
 				5E4998352BF92DB000A01777 /* 17. Letter Combinations of a Phone Number.swift */,
 				5E4998372BFB600E00A01777 /* 39. Combination Sum.swift */,
+				5E4998392C02103A00A01777 /* 52. N-Queens II.swift */,
+				5E49983B2C02107800A01777 /* 79. Word Search.swift */,
+				5E49983D2C1B888100A01777 /* 22. Generate Parentheses.swift */,
 			);
 			path = dataStructures;
 			sourceTree = "<group>";
@@ -537,6 +546,7 @@
 				5E4998142BDFCD9F00A01777 /* 1196. How Many Apples Can You Put into the Basket.swift in Sources */,
 				5EFCD3D12B88A9A800359C54 /* 236. Lowest Common Ancestor of a Binary Tree.swift in Sources */,
 				5E3772212BBB4D64005B2CEC /* 414. Third Maximum Number.swift in Sources */,
+				5E49983C2C02107800A01777 /* 79. Word Search.swift in Sources */,
 				5E6B9E242B4F442C003740C8 /* 141. Linked List Cycle.swift in Sources */,
 				5EC2AAD22BD2A0E00056B2AB /* 973. K Closest Points to Origin.swift in Sources */,
 				5EC2AAE22BDD81930056B2AB /* 1323. Maximum 69 Number.swift in Sources */,
@@ -557,6 +567,7 @@
 				5E4998382BFB600E00A01777 /* 39. Combination Sum.swift in Sources */,
 				5EC2AAC82BD284290056B2AB /* TreeNode.swift in Sources */,
 				5E4998322BF670DB00A01777 /* 77. Combinations.swift in Sources */,
+				5E49983A2C02103A00A01777 /* 52. N-Queens II.swift in Sources */,
 				5EA1C1562B852484005323B0 /* 104. Maximum Depth of Binary Tree.swift in Sources */,
 				5E4998242BEA8BD600A01777 /* 1631. Path With Minimum Effort.swift in Sources */,
 				5E41B31F2B55C5AF00C2B0EE /* 876. Middle of the Linked List.swift in Sources */,
@@ -610,6 +621,7 @@
 				5E448F632B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift in Sources */,
 				5E8227A72B8FC31B008DC5CE /* 938. Range Sum of BST.swift in Sources */,
 				5EE3DDFD2BAF4550003F7686 /* 1926. Nearest Exit from Entrance in Maze.swift in Sources */,
+				5E49983E2C1B888100A01777 /* 22. Generate Parentheses.swift in Sources */,
 				5E0AA44B2BC06AB50061D826 /* 2101. Detonate the Maximum Bombs.swift in Sources */,
 				5EC2AACE2BD284CE0056B2AB /* Tree.swift in Sources */,
 				5E8227A92B8FD3D8008DC5CE /* 530. Minimum Absolute Difference in BST.swift in Sources */,
