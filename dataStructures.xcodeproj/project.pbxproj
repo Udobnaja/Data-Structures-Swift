@@ -68,6 +68,7 @@
 		5E49983E2C1B888100A01777 /* 22. Generate Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E49983D2C1B888100A01777 /* 22. Generate Parentheses.swift */; };
 		5E4998402C32F0B600A01777 /* 967. Numbers With Same Consecutive Differences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E49983F2C32F0B600A01777 /* 967. Numbers With Same Consecutive Differences.swift */; };
 		5E4998422C32F9DD00A01777 /* 216. Combination Sum III.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998412C32F9DD00A01777 /* 216. Combination Sum III.swift */; };
+		5E4998442C36C35400A01777 /* 746. Min Cost Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4998432C36C35400A01777 /* 746. Min Cost Climbing Stairs.swift */; };
 		5E56748E2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */; };
 		5E5674902B79304E00D2AAF4 /* 739. Daily Temperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */; };
 		5E5674922B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5674912B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift */; };
@@ -212,6 +213,7 @@
 		5E49983D2C1B888100A01777 /* 22. Generate Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "22. Generate Parentheses.swift"; sourceTree = "<group>"; };
 		5E49983F2C32F0B600A01777 /* 967. Numbers With Same Consecutive Differences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "967. Numbers With Same Consecutive Differences.swift"; sourceTree = "<group>"; };
 		5E4998412C32F9DD00A01777 /* 216. Combination Sum III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "216. Combination Sum III.swift"; sourceTree = "<group>"; };
+		5E4998432C36C35400A01777 /* 746. Min Cost Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "746. Min Cost Climbing Stairs.swift"; sourceTree = "<group>"; };
 		5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "933. Number of Recent Calls.swift"; sourceTree = "<group>"; };
 		5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "739. Daily Temperatures.swift"; sourceTree = "<group>"; };
 		5E5674912B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "346. Moving Average from Data Stream.swift"; sourceTree = "<group>"; };
@@ -434,6 +436,7 @@
 				5E49983D2C1B888100A01777 /* 22. Generate Parentheses.swift */,
 				5E49983F2C32F0B600A01777 /* 967. Numbers With Same Consecutive Differences.swift */,
 				5E4998412C32F9DD00A01777 /* 216. Combination Sum III.swift */,
+				5E4998432C36C35400A01777 /* 746. Min Cost Climbing Stairs.swift */,
 			);
 			path = dataStructures;
 			sourceTree = "<group>";
@@ -523,6 +526,7 @@
 				5E5C3AA62B700437004CC02C /* 92. Reverse Linked List II.swift in Sources */,
 				5EE21D642B966C0900412F48 /* 200. Number of Islands.swift in Sources */,
 				5EB5F7E22B7AC64D00622BF1 /* 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.swift in Sources */,
+				5E4998442C36C35400A01777 /* 746. Min Cost Climbing Stairs.swift in Sources */,
 				5E8097E32BA5A98A00284880 /* 542. 01 Matrix.swift in Sources */,
 				5E448F732B449B22009CA027 /* 2342. Max Sum of a Pair With Equal Sum of Digits .swift in Sources */,
 				5E1AF11D2BCD8D0500ED7B26 /* 1167. Minimum Cost to Connect Sticks.swift in Sources */,
