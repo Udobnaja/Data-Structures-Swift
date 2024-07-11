@@ -126,6 +126,7 @@
 		5EE3DDFD2BAF4550003F7686 /* 1926. Nearest Exit from Entrance in Maze.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE3DDFC2BAF4550003F7686 /* 1926. Nearest Exit from Entrance in Maze.swift */; };
 		5EE3DDFF2BB0BF0C003F7686 /* 909. Snakes and Ladders.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE3DDFE2BB0BF0C003F7686 /* 909. Snakes and Ladders.swift */; };
 		5EF72D8B2BB4CB1100B8CF21 /* 905. Sort Array By Parity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EF72D8A2BB4CB1100B8CF21 /* 905. Sort Array By Parity.swift */; };
+		5EFA9BF52C400CC10041ACE5 /* 300. Longest Increasing Subsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFA9BF42C400CC10041ACE5 /* 300. Longest Increasing Subsequence.swift */; };
 		5EFCD3B62B86977900359C54 /* 112. Path Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFCD3B52B86977900359C54 /* 112. Path Sum.swift */; };
 		5EFCD3CD2B87C3A800359C54 /* 1448. Count Good Nodes in Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFCD3CC2B87C3A800359C54 /* 1448. Count Good Nodes in Binary Tree.swift */; };
 		5EFCD3CF2B87CCD200359C54 /* 100. Same Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFCD3CE2B87CCD200359C54 /* 100. Same Tree.swift */; };
@@ -272,6 +273,7 @@
 		5EE3DDFC2BAF4550003F7686 /* 1926. Nearest Exit from Entrance in Maze.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1926. Nearest Exit from Entrance in Maze.swift"; sourceTree = "<group>"; };
 		5EE3DDFE2BB0BF0C003F7686 /* 909. Snakes and Ladders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "909. Snakes and Ladders.swift"; sourceTree = "<group>"; };
 		5EF72D8A2BB4CB1100B8CF21 /* 905. Sort Array By Parity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "905. Sort Array By Parity.swift"; sourceTree = "<group>"; };
+		5EFA9BF42C400CC10041ACE5 /* 300. Longest Increasing Subsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "300. Longest Increasing Subsequence.swift"; sourceTree = "<group>"; };
 		5EFCD3B52B86977900359C54 /* 112. Path Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "112. Path Sum.swift"; sourceTree = "<group>"; };
 		5EFCD3CC2B87C3A800359C54 /* 1448. Count Good Nodes in Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1448. Count Good Nodes in Binary Tree.swift"; sourceTree = "<group>"; };
 		5EFCD3CE2B87CCD200359C54 /* 100. Same Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "100. Same Tree.swift"; sourceTree = "<group>"; };
@@ -440,6 +442,7 @@
 				5E4998412C32F9DD00A01777 /* 216. Combination Sum III.swift */,
 				5E4998432C36C35400A01777 /* 746. Min Cost Climbing Stairs.swift */,
 				5E6021832C3BF75300CC42A2 /* 198. House Robber.swift */,
+				5EFA9BF42C400CC10041ACE5 /* 300. Longest Increasing Subsequence.swift */,
 			);
 			path = dataStructures;
 			sourceTree = "<group>";
@@ -633,6 +636,7 @@
 				5EB9B3502B9B1D2C002FADF5 /* 1557. Minimum Number of Vertices to Reach All Nodes.swift in Sources */,
 				5EFCD4032B8E66AD00359C54 /* 103. Binary Tree Zigzag Level Order Traversal.swift in Sources */,
 				5EFCD3D52B8A785D00359C54 /* 1026. Maximum Difference Between Node and Ancestor.swift in Sources */,
+				5EFA9BF52C400CC10041ACE5 /* 300. Longest Increasing Subsequence.swift in Sources */,
 				5E49981A2BE415A600A01777 /* 74. Search a 2D Matrix.swift in Sources */,
 				5E448F632B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift in Sources */,
 				5E8227A72B8FC31B008DC5CE /* 938. Range Sum of BST.swift in Sources */,

@@ -74,4 +74,4 @@ func rob(_ nums: [Int]) -> Int {
 //    return dp(nums.count - 1)
 //}
 
-print(rob([2,1,1,2]))
+//print(rob([2,1,1,2]))
