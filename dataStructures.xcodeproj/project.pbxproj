@@ -128,6 +128,7 @@
 		5EF72D8B2BB4CB1100B8CF21 /* 905. Sort Array By Parity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EF72D8A2BB4CB1100B8CF21 /* 905. Sort Array By Parity.swift */; };
 		5EFA9BF52C400CC10041ACE5 /* 300. Longest Increasing Subsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFA9BF42C400CC10041ACE5 /* 300. Longest Increasing Subsequence.swift */; };
 		5EFA9C012C4548480041ACE5 /* 2140. Solving Questions With Brainpower.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFA9C002C4548480041ACE5 /* 2140. Solving Questions With Brainpower.swift */; };
+		5EFA9C032C47FD040041ACE5 /* 70. Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFA9C022C47FD040041ACE5 /* 70. Climbing Stairs.swift */; };
 		5EFCD3B62B86977900359C54 /* 112. Path Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFCD3B52B86977900359C54 /* 112. Path Sum.swift */; };
 		5EFCD3CD2B87C3A800359C54 /* 1448. Count Good Nodes in Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFCD3CC2B87C3A800359C54 /* 1448. Count Good Nodes in Binary Tree.swift */; };
 		5EFCD3CF2B87CCD200359C54 /* 100. Same Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFCD3CE2B87CCD200359C54 /* 100. Same Tree.swift */; };
@@ -276,6 +277,7 @@
 		5EF72D8A2BB4CB1100B8CF21 /* 905. Sort Array By Parity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "905. Sort Array By Parity.swift"; sourceTree = "<group>"; };
 		5EFA9BF42C400CC10041ACE5 /* 300. Longest Increasing Subsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "300. Longest Increasing Subsequence.swift"; sourceTree = "<group>"; };
 		5EFA9C002C4548480041ACE5 /* 2140. Solving Questions With Brainpower.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2140. Solving Questions With Brainpower.swift"; sourceTree = "<group>"; };
+		5EFA9C022C47FD040041ACE5 /* 70. Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "70. Climbing Stairs.swift"; sourceTree = "<group>"; };
 		5EFCD3B52B86977900359C54 /* 112. Path Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "112. Path Sum.swift"; sourceTree = "<group>"; };
 		5EFCD3CC2B87C3A800359C54 /* 1448. Count Good Nodes in Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1448. Count Good Nodes in Binary Tree.swift"; sourceTree = "<group>"; };
 		5EFCD3CE2B87CCD200359C54 /* 100. Same Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "100. Same Tree.swift"; sourceTree = "<group>"; };
@@ -446,6 +448,7 @@
 				5E6021832C3BF75300CC42A2 /* 198. House Robber.swift */,
 				5EFA9BF42C400CC10041ACE5 /* 300. Longest Increasing Subsequence.swift */,
 				5EFA9C002C4548480041ACE5 /* 2140. Solving Questions With Brainpower.swift */,
+				5EFA9C022C47FD040041ACE5 /* 70. Climbing Stairs.swift */,
 			);
 			path = dataStructures;
 			sourceTree = "<group>";
@@ -608,6 +611,7 @@
 				5EA1C1542B83D87E005323B0 /* 901. Online Stock Span.swift in Sources */,
 				5E49982E2BF3E89700A01777 /* 46. Permutations.swift in Sources */,
 				5EB625312B7425300033CE3A /* 1544. Make The String Great.swift in Sources */,
+				5EFA9C032C47FD040041ACE5 /* 70. Climbing Stairs.swift in Sources */,
 				5EC2AAC62BD283D90056B2AB /* MaxHeap.swift in Sources */,
 				5E448F692B40A4C5009CA027 /* 1133. Largest Unique Number.swift in Sources */,
 				5EC2AACA2BD284530056B2AB /* ListNode.swift in Sources */,
