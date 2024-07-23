@@ -120,6 +120,7 @@
 		5ED3FCF72BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED3FCF62BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift */; };
 		5ED600292B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED600282B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift */; };
 		5EE044942C4ACDA8004A2831 /* 322. Coin Change.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE044932C4ACDA8004A2831 /* 322. Coin Change.swift */; };
+		5EE044962C4FCBAE004A2831 /* 1143. Longest Common Subsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE044952C4FCBAE004A2831 /* 1143. Longest Common Subsequence.swift */; };
 		5EE21D642B966C0900412F48 /* 200. Number of Islands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE21D632B966C0900412F48 /* 200. Number of Islands.swift */; };
 		5EE3DDF72BAB9263003F7686 /* 1346. Check If N and Its Double Exist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE3DDF62BAB9263003F7686 /* 1346. Check If N and Its Double Exist.swift */; };
 		5EE3DDF92BACC35E003F7686 /* 941. Valid Mountain Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE3DDF82BACC35E003F7686 /* 941. Valid Mountain Array.swift */; };
@@ -270,6 +271,7 @@
 		5ED3FCF62BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "448. Find All Numbers Disappeared in an Array.swift"; sourceTree = "<group>"; };
 		5ED600282B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1466. Reorder Routes to Make All Paths Lead to the City Zero.swift"; sourceTree = "<group>"; };
 		5EE044932C4ACDA8004A2831 /* 322. Coin Change.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "322. Coin Change.swift"; sourceTree = "<group>"; };
+		5EE044952C4FCBAE004A2831 /* 1143. Longest Common Subsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1143. Longest Common Subsequence.swift"; sourceTree = "<group>"; };
 		5EE21D632B966C0900412F48 /* 200. Number of Islands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "200. Number of Islands.swift"; sourceTree = "<group>"; };
 		5EE3DDF62BAB9263003F7686 /* 1346. Check If N and Its Double Exist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1346. Check If N and Its Double Exist.swift"; sourceTree = "<group>"; };
 		5EE3DDF82BACC35E003F7686 /* 941. Valid Mountain Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "941. Valid Mountain Array.swift"; sourceTree = "<group>"; };
@@ -452,6 +454,7 @@
 				5EFA9C002C4548480041ACE5 /* 2140. Solving Questions With Brainpower.swift */,
 				5EFA9C022C47FD040041ACE5 /* 70. Climbing Stairs.swift */,
 				5EE044932C4ACDA8004A2831 /* 322. Coin Change.swift */,
+				5EE044952C4FCBAE004A2831 /* 1143. Longest Common Subsequence.swift */,
 			);
 			path = dataStructures;
 			sourceTree = "<group>";
@@ -576,6 +579,7 @@
 				5E49983C2C02107800A01777 /* 79. Word Search.swift in Sources */,
 				5E6B9E242B4F442C003740C8 /* 141. Linked List Cycle.swift in Sources */,
 				5EC2AAD22BD2A0E00056B2AB /* 973. K Closest Points to Origin.swift in Sources */,
+				5EE044962C4FCBAE004A2831 /* 1143. Longest Common Subsequence.swift in Sources */,
 				5EC2AAE22BDD81930056B2AB /* 1323. Maximum 69 Number.swift in Sources */,
 				5E4998182BE2B2D200A01777 /* 704. Binary Search.swift in Sources */,
 				5E49982C2BF120F900A01777 /* 410. Split Array Largest Sum.swift in Sources */,

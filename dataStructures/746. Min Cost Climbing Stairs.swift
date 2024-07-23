@@ -43,3 +43,37 @@ func minCostClimbingStairs(_ cost: [Int]) -> Int {
 
 //print(minCostClimbingStairs([1,100,1,1,1,100,1,1,100,1]))
 
+//func minCostClimbingStairs(_ cost: [Int]) -> Int {
+//    var cache = Array(repeating: -1, count: cost.count + 1)
+//    func dp(_ i: Int) -> Int {
+//        if i <= 1 {
+//            return 0
+//        }
+//
+//        if cache[i] == -1 {
+//            cache[i] = min(dp(i - 1) + cost[i - 1], dp(i - 2) + cost[i - 2])
+//        }
+//
+//        return cache[i]
+//    }
+//
+//    return dp(cost.count)
+//}
+
+//func minCostClimbingStairs(_ cost: [Int]) -> Int {
+//    let count = cost.count
+//    
+//    var cache = Array(repeating: 0, count: count)
+//    
+//    cache[0] = cost[0]
+//    cache[1] = cost[1]
+//    
+//    for i in 2..<count {
+//        cache[i] = min(cache[i - 1], cache[i - 2]) + cost[i]
+//    }
+//    
+//    return min(cache[count - 1], cache[count - 2])
+//}
+//
+//
+//print(minCostClimbingStairs([10, 15, 20]))
