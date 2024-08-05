@@ -30,6 +30,7 @@
 		5E41B3232B5F009700C2B0EE /* 206. Reverse Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E41B3222B5F009700C2B0EE /* 206. Reverse Linked List.swift */; };
 		5E42C3432C5B98CD000650FA /* 714. Best Time to Buy and Sell Stock with Transaction Fee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3422C5B98CD000650FA /* 714. Best Time to Buy and Sell Stock with Transaction Fee.swift */; };
 		5E42C3452C5D0809000650FA /* 309. Best Time to Buy and Sell Stock with Cooldown.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3442C5D0809000650FA /* 309. Best Time to Buy and Sell Stock with Cooldown.swift */; };
+		5E42C3472C61044D000650FA /* 62. Unique Paths.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3462C61044D000650FA /* 62. Unique Paths.swift */; };
 		5E4484522BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4484512BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift */; };
 		5E448F5C2B3C5517009CA027 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F5B2B3C5517009CA027 /* main.swift */; };
 		5E448F632B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F622B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift */; };
@@ -184,6 +185,7 @@
 		5E41B3222B5F009700C2B0EE /* 206. Reverse Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "206. Reverse Linked List.swift"; sourceTree = "<group>"; };
 		5E42C3422C5B98CD000650FA /* 714. Best Time to Buy and Sell Stock with Transaction Fee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "714. Best Time to Buy and Sell Stock with Transaction Fee.swift"; sourceTree = "<group>"; };
 		5E42C3442C5D0809000650FA /* 309. Best Time to Buy and Sell Stock with Cooldown.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "309. Best Time to Buy and Sell Stock with Cooldown.swift"; sourceTree = "<group>"; };
+		5E42C3462C61044D000650FA /* 62. Unique Paths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "62. Unique Paths.swift"; sourceTree = "<group>"; };
 		5E4484512BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1091. Shortest Path in Binary Matrix.swift"; sourceTree = "<group>"; };
 		5E448F582B3C5517009CA027 /* dataStructures */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = dataStructures; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E448F5B2B3C5517009CA027 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -467,6 +469,7 @@
 				5E7659A22C5A754200BA0C04 /* 2218. Maximum Value of K Coins From Piles.swift */,
 				5E42C3422C5B98CD000650FA /* 714. Best Time to Buy and Sell Stock with Transaction Fee.swift */,
 				5E42C3442C5D0809000650FA /* 309. Best Time to Buy and Sell Stock with Cooldown.swift */,
+				5E42C3462C61044D000650FA /* 62. Unique Paths.swift */,
 			);
 			path = dataStructures;
 			sourceTree = "<group>";
@@ -548,6 +551,7 @@
 				5EBAE0D32BB20C6700112CAF /* 752. Open the Lock.swift in Sources */,
 				5EC2AADE2BDABBC00056B2AB /* 1481. Least Number of Unique Integers after K Removals.swift in Sources */,
 				5E7659A12C51324000BA0C04 /* 188. Best Time to Buy and Sell Stock IV.swift in Sources */,
+				5E42C3472C61044D000650FA /* 62. Unique Paths.swift in Sources */,
 				5EFCD3D32B88C13300359C54 /* 111. Minimum Depth of Binary Tree.swift in Sources */,
 				5E3772192BB6F76C005B2CEC /* 399. Evaluate Division.swift in Sources */,
 				5EE3DDF92BACC35E003F7686 /* 941. Valid Mountain Array.swift in Sources */,
