@@ -33,6 +33,7 @@
 		5E42C3472C61044D000650FA /* 62. Unique Paths.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3462C61044D000650FA /* 62. Unique Paths.swift */; };
 		5E42C3492C6230D3000650FA /* 64. Minimum Path Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3482C6230D3000650FA /* 64. Minimum Path Sum.swift */; };
 		5E42C34B2C62C10B000650FA /* 63. Unique Paths II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C34A2C62C10B000650FA /* 63. Unique Paths II.swift */; };
+		5E42C34D2C63977E000650FA /* 931. Minimum Falling Path Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C34C2C63977E000650FA /* 931. Minimum Falling Path Sum.swift */; };
 		5E4484522BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4484512BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift */; };
 		5E448F5C2B3C5517009CA027 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F5B2B3C5517009CA027 /* main.swift */; };
 		5E448F632B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F622B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift */; };
@@ -190,6 +191,7 @@
 		5E42C3462C61044D000650FA /* 62. Unique Paths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "62. Unique Paths.swift"; sourceTree = "<group>"; };
 		5E42C3482C6230D3000650FA /* 64. Minimum Path Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "64. Minimum Path Sum.swift"; sourceTree = "<group>"; };
 		5E42C34A2C62C10B000650FA /* 63. Unique Paths II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "63. Unique Paths II.swift"; sourceTree = "<group>"; };
+		5E42C34C2C63977E000650FA /* 931. Minimum Falling Path Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "931. Minimum Falling Path Sum.swift"; sourceTree = "<group>"; };
 		5E4484512BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1091. Shortest Path in Binary Matrix.swift"; sourceTree = "<group>"; };
 		5E448F582B3C5517009CA027 /* dataStructures */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = dataStructures; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E448F5B2B3C5517009CA027 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -423,6 +425,7 @@
 				5EA1C1532B83D87E005323B0 /* 901. Online Stock Span.swift */,
 				5EF72D8A2BB4CB1100B8CF21 /* 905. Sort Array By Parity.swift */,
 				5EE3DDFE2BB0BF0C003F7686 /* 909. Snakes and Ladders.swift */,
+				5E42C34C2C63977E000650FA /* 931. Minimum Falling Path Sum.swift */,
 				5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */,
 				5E8227A62B8FC31B008DC5CE /* 938. Range Sum of BST.swift */,
 				5EE3DDF82BACC35E003F7686 /* 941. Valid Mountain Array.swift */,
@@ -561,6 +564,7 @@
 				5EFCD3D32B88C13300359C54 /* 111. Minimum Depth of Binary Tree.swift in Sources */,
 				5E3772192BB6F76C005B2CEC /* 399. Evaluate Division.swift in Sources */,
 				5EE3DDF92BACC35E003F7686 /* 941. Valid Mountain Array.swift in Sources */,
+				5E42C34D2C63977E000650FA /* 931. Minimum Falling Path Sum.swift in Sources */,
 				5EB9B34E2B9A2CD1002FADF5 /* 841. Keys and Rooms.swift in Sources */,
 				5EC2AAD82BD69EA80056B2AB /* 2126. Destroying Asteroids.swift in Sources */,
 				5E49981E2BE689E100A01777 /* 35. Search Insert Position.swift in Sources */,
