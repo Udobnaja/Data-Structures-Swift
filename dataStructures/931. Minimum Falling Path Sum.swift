@@ -81,28 +81,54 @@ import Foundation
 //    return ans
 //}
 
+//func minFallingPathSum(_ matrix: [[Int]]) -> Int {
+//    let mxCount = matrix.count
+//    
+//    var mock = matrix
+//    
+//    for row in 1..<mxCount {
+//        for col in 0..<mxCount {
+//            var ans = mock[row - 1][col]
+//            
+//            if col > 0 {
+//               ans = min(ans, mock[row - 1][col - 1])
+//            }
+//            
+//            if col < mxCount - 1 {
+//                ans = min(ans, mock[row - 1][col + 1])
+//            }
+//            
+//            mock[row][col] = ans + matrix[row][col]
+//        }
+//    }
+//    
+//    return mock[mxCount - 1].min()!
+//}
+
+// somehow it's not faster than the prev one
 func minFallingPathSum(_ matrix: [[Int]]) -> Int {
     let mxCount = matrix.count
     
-    var mock = matrix
+    var mock = matrix[0]
     
     for row in 1..<mxCount {
+        var fkmk = mock
         for col in 0..<mxCount {
-            var ans = mock[row - 1][col]
+            var ans = mock[col]
             
             if col > 0 {
-               ans = min(ans, mock[row - 1][col - 1])
+               ans = min(ans, fkmk[col - 1])
             }
             
             if col < mxCount - 1 {
-                ans = min(ans, mock[row - 1][col + 1])
+                ans = min(ans, fkmk[col + 1])
             }
             
-            mock[row][col] = ans + matrix[row][col]
+            mock[col] = ans + matrix[row][col]
         }
     }
     
-    return mock[mxCount - 1].min()!
+    return mock.min()!
 }
 
 //print(minFallingPathSum([[-19,57],[-40,-5]]))
