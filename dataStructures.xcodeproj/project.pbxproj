@@ -34,6 +34,8 @@
 		5E42C3492C6230D3000650FA /* 64. Minimum Path Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3482C6230D3000650FA /* 64. Minimum Path Sum.swift */; };
 		5E42C34B2C62C10B000650FA /* 63. Unique Paths II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C34A2C62C10B000650FA /* 63. Unique Paths II.swift */; };
 		5E42C34D2C63977E000650FA /* 931. Minimum Falling Path Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C34C2C63977E000650FA /* 931. Minimum Falling Path Sum.swift */; };
+		5E42C34F2C6A3E4A000650FA /* 917. Reverse Only Letters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C34E2C6A3E4A000650FA /* 917. Reverse Only Letters.swift */; };
+		5E42C3512C6A4464000650FA /* 557. Reverse Words in a String III.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3502C6A4464000650FA /* 557. Reverse Words in a String III.swift */; };
 		5E4484522BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4484512BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift */; };
 		5E448F5C2B3C5517009CA027 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F5B2B3C5517009CA027 /* main.swift */; };
 		5E448F632B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F622B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift */; };
@@ -192,6 +194,8 @@
 		5E42C3482C6230D3000650FA /* 64. Minimum Path Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "64. Minimum Path Sum.swift"; sourceTree = "<group>"; };
 		5E42C34A2C62C10B000650FA /* 63. Unique Paths II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "63. Unique Paths II.swift"; sourceTree = "<group>"; };
 		5E42C34C2C63977E000650FA /* 931. Minimum Falling Path Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "931. Minimum Falling Path Sum.swift"; sourceTree = "<group>"; };
+		5E42C34E2C6A3E4A000650FA /* 917. Reverse Only Letters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "917. Reverse Only Letters.swift"; sourceTree = "<group>"; };
+		5E42C3502C6A4464000650FA /* 557. Reverse Words in a String III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "557. Reverse Words in a String III.swift"; sourceTree = "<group>"; };
 		5E4484512BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1091. Shortest Path in Binary Matrix.swift"; sourceTree = "<group>"; };
 		5E448F582B3C5517009CA027 /* dataStructures */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = dataStructures; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E448F5B2B3C5517009CA027 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -405,6 +409,7 @@
 				5E8097E22BA5A98A00284880 /* 542. 01 Matrix.swift */,
 				5EFCD3D62B8A81DD00359C54 /* 543. Diameter of Binary Tree.swift */,
 				5E5BAD6E2B95015D0039D1DC /* 547. Number of Provinces.swift */,
+				5E42C3502C6A4464000650FA /* 557. Reverse Words in a String III.swift */,
 				5EC2AAC02BCFC3660056B2AB /* 658. Find K Closest Elements.swift */,
 				5E11C2E22B9F6D1B0068484B /* 695. Max Area of Island.swift */,
 				5E5BAD6A2B9329270039D1DC /* 701. Insert into a Binary Search Tree.swift */,
@@ -425,6 +430,7 @@
 				5EA1C1532B83D87E005323B0 /* 901. Online Stock Span.swift */,
 				5EF72D8A2BB4CB1100B8CF21 /* 905. Sort Array By Parity.swift */,
 				5EE3DDFE2BB0BF0C003F7686 /* 909. Snakes and Ladders.swift */,
+				5E42C34E2C6A3E4A000650FA /* 917. Reverse Only Letters.swift */,
 				5E42C34C2C63977E000650FA /* 931. Minimum Falling Path Sum.swift */,
 				5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */,
 				5E8227A62B8FC31B008DC5CE /* 938. Range Sum of BST.swift */,
@@ -569,6 +575,7 @@
 				5EC2AAD82BD69EA80056B2AB /* 2126. Destroying Asteroids.swift in Sources */,
 				5E49981E2BE689E100A01777 /* 35. Search Insert Position.swift in Sources */,
 				5E5C3AA62B700437004CC02C /* 92. Reverse Linked List II.swift in Sources */,
+				5E42C3512C6A4464000650FA /* 557. Reverse Words in a String III.swift in Sources */,
 				5EE21D642B966C0900412F48 /* 200. Number of Islands.swift in Sources */,
 				5EB5F7E22B7AC64D00622BF1 /* 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.swift in Sources */,
 				5E4998442C36C35400A01777 /* 746. Min Cost Climbing Stairs.swift in Sources */,
@@ -676,6 +683,7 @@
 				5ED600292B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift in Sources */,
 				5E448F752B44A704009CA027 /* 2352. Equal Row and Column Pairs .swift in Sources */,
 				5EC2AAD02BD284F20056B2AB /* Prints.swift in Sources */,
+				5E42C34F2C6A3E4A000650FA /* 917. Reverse Only Letters.swift in Sources */,
 				5E40AD792BA9FE170017966A /* 1129. Shortest Path with Alternating Colors.swift in Sources */,
 				5EC2AACC2BD284990056B2AB /* BST.swift in Sources */,
 				5E6021842C3BF75300CC42A2 /* 198. House Robber.swift in Sources */,
