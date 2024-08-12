@@ -36,6 +36,8 @@
 		5E42C34D2C63977E000650FA /* 931. Minimum Falling Path Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C34C2C63977E000650FA /* 931. Minimum Falling Path Sum.swift */; };
 		5E42C34F2C6A3E4A000650FA /* 917. Reverse Only Letters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C34E2C6A3E4A000650FA /* 917. Reverse Only Letters.swift */; };
 		5E42C3512C6A4464000650FA /* 557. Reverse Words in a String III.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3502C6A4464000650FA /* 557. Reverse Words in a String III.swift */; };
+		5E42C3532C6A94D0000650FA /* 2540. Minimum Common Value.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3522C6A94D0000650FA /* 2540. Minimum Common Value.swift */; };
+		5E42C3552C6A9748000650FA /* 2000. Reverse Prefix of Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3542C6A9748000650FA /* 2000. Reverse Prefix of Word.swift */; };
 		5E4484522BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4484512BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift */; };
 		5E448F5C2B3C5517009CA027 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F5B2B3C5517009CA027 /* main.swift */; };
 		5E448F632B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F622B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift */; };
@@ -196,6 +198,8 @@
 		5E42C34C2C63977E000650FA /* 931. Minimum Falling Path Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "931. Minimum Falling Path Sum.swift"; sourceTree = "<group>"; };
 		5E42C34E2C6A3E4A000650FA /* 917. Reverse Only Letters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "917. Reverse Only Letters.swift"; sourceTree = "<group>"; };
 		5E42C3502C6A4464000650FA /* 557. Reverse Words in a String III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "557. Reverse Words in a String III.swift"; sourceTree = "<group>"; };
+		5E42C3522C6A94D0000650FA /* 2540. Minimum Common Value.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2540. Minimum Common Value.swift"; sourceTree = "<group>"; };
+		5E42C3542C6A9748000650FA /* 2000. Reverse Prefix of Word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2000. Reverse Prefix of Word.swift"; sourceTree = "<group>"; };
 		5E4484512BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1091. Shortest Path in Binary Matrix.swift"; sourceTree = "<group>"; };
 		5E448F582B3C5517009CA027 /* dataStructures */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = dataStructures; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E448F5B2B3C5517009CA027 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -470,6 +474,7 @@
 				5EE3DDFC2BAF4550003F7686 /* 1926. Nearest Exit from Entrance in Maze.swift */,
 				5E1AF11A2BCD892500ED7B26 /* 1962. Remove Stones to Minimize the Total.swift */,
 				5EB9B3542B9C6B63002FADF5 /* 1971. Find if Path Exists in Graph.swift */,
+				5E42C3542C6A9748000650FA /* 2000. Reverse Prefix of Word.swift */,
 				5E448F622B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift */,
 				5E0AA44A2BC06AB50061D826 /* 2101. Detonate the Maximum Bombs.swift */,
 				5EC2AAD72BD69EA80056B2AB /* 2126. Destroying Asteroids.swift */,
@@ -485,6 +490,7 @@
 				5E448F742B44A704009CA027 /* 2352. Equal Row and Column Pairs .swift */,
 				5E11C2F22BA0C50A0068484B /* 2368. Reachable Nodes With Restrictions.swift */,
 				5E49981F2BE7847C00A01777 /* 2389. Longest Subsequence With Limited Sum.swift */,
+				5E42C3522C6A94D0000650FA /* 2540. Minimum Common Value.swift */,
 			);
 			path = dataStructures;
 			sourceTree = "<group>";
@@ -623,6 +629,7 @@
 				5EE044942C4ACDA8004A2831 /* 322. Coin Change.swift in Sources */,
 				5E448F7B2B474AA6009CA027 /* 3. Longest Substring Without Repeating Characters .swift in Sources */,
 				5E4998302BF5136500A01777 /* 78. Subsets.swift in Sources */,
+				5E42C3552C6A9748000650FA /* 2000. Reverse Prefix of Word.swift in Sources */,
 				5E448F672B3F808A009CA027 /* 2225. Find Players With Zero or One Losses .swift in Sources */,
 				5E4998342BF7999300A01777 /* 797. All Paths From Source to Target.swift in Sources */,
 				5E5C3AA42B6FE12D004CC02C /* 2130. Maximum Twin Sum of a Linked List.swift in Sources */,
@@ -684,6 +691,7 @@
 				5E448F752B44A704009CA027 /* 2352. Equal Row and Column Pairs .swift in Sources */,
 				5EC2AAD02BD284F20056B2AB /* Prints.swift in Sources */,
 				5E42C34F2C6A3E4A000650FA /* 917. Reverse Only Letters.swift in Sources */,
+				5E42C3532C6A94D0000650FA /* 2540. Minimum Common Value.swift in Sources */,
 				5E40AD792BA9FE170017966A /* 1129. Shortest Path with Alternating Colors.swift in Sources */,
 				5EC2AACC2BD284990056B2AB /* BST.swift in Sources */,
 				5E6021842C3BF75300CC42A2 /* 198. House Robber.swift in Sources */,
