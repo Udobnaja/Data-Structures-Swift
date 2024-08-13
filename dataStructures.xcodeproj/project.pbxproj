@@ -38,6 +38,8 @@
 		5E42C3512C6A4464000650FA /* 557. Reverse Words in a String III.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3502C6A4464000650FA /* 557. Reverse Words in a String III.swift */; };
 		5E42C3532C6A94D0000650FA /* 2540. Minimum Common Value.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3522C6A94D0000650FA /* 2540. Minimum Common Value.swift */; };
 		5E42C3552C6A9748000650FA /* 2000. Reverse Prefix of Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3542C6A9748000650FA /* 2000. Reverse Prefix of Word.swift */; };
+		5E42C3572C6A9F56000650FA /* 209. Minimum Size Subarray Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3562C6A9F56000650FA /* 209. Minimum Size Subarray Sum.swift */; };
+		5E42C3592C6AA8F3000650FA /* 1456. Maximum Number of Vowels in a Substring of Given Length.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3582C6AA8F3000650FA /* 1456. Maximum Number of Vowels in a Substring of Given Length.swift */; };
 		5E4484522BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4484512BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift */; };
 		5E448F5C2B3C5517009CA027 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F5B2B3C5517009CA027 /* main.swift */; };
 		5E448F632B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F622B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift */; };
@@ -200,6 +202,8 @@
 		5E42C3502C6A4464000650FA /* 557. Reverse Words in a String III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "557. Reverse Words in a String III.swift"; sourceTree = "<group>"; };
 		5E42C3522C6A94D0000650FA /* 2540. Minimum Common Value.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2540. Minimum Common Value.swift"; sourceTree = "<group>"; };
 		5E42C3542C6A9748000650FA /* 2000. Reverse Prefix of Word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2000. Reverse Prefix of Word.swift"; sourceTree = "<group>"; };
+		5E42C3562C6A9F56000650FA /* 209. Minimum Size Subarray Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "209. Minimum Size Subarray Sum.swift"; sourceTree = "<group>"; };
+		5E42C3582C6AA8F3000650FA /* 1456. Maximum Number of Vowels in a Substring of Given Length.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1456. Maximum Number of Vowels in a Substring of Given Length.swift"; sourceTree = "<group>"; };
 		5E4484512BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1091. Shortest Path in Binary Matrix.swift"; sourceTree = "<group>"; };
 		5E448F582B3C5517009CA027 /* dataStructures */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = dataStructures; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E448F5B2B3C5517009CA027 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -386,6 +390,7 @@
 				5EFCD3D82B8B5E0700359C54 /* 199. Binary Tree Right Side View.swift */,
 				5EE21D632B966C0900412F48 /* 200. Number of Islands.swift */,
 				5E41B3222B5F009700C2B0EE /* 206. Reverse Linked List.swift */,
+				5E42C3562C6A9F56000650FA /* 209. Minimum Size Subarray Sum.swift */,
 				5EC2AAC22BD12D660056B2AB /* 215. Kth Largest Element in an Array.swift */,
 				5E4998412C32F9DD00A01777 /* 216. Combination Sum III.swift */,
 				5EFCD3D02B88A9A800359C54 /* 236. Lowest Common Ancestor of a Binary Tree.swift */,
@@ -464,6 +469,7 @@
 				5EE3DDF62BAB9263003F7686 /* 1346. Check If N and Its Double Exist.swift */,
 				5EB5F7E12B7AC64D00622BF1 /* 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.swift */,
 				5EFCD3CC2B87C3A800359C54 /* 1448. Count Good Nodes in Binary Tree.swift */,
+				5E42C3582C6AA8F3000650FA /* 1456. Maximum Number of Vowels in a Substring of Given Length.swift */,
 				5ED600282B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift */,
 				5EC2AADD2BDABBC00056B2AB /* 1481. Least Number of Unique Integers after K Removals.swift */,
 				5EB625302B7425300033CE3A /* 1544. Make The String Great.swift */,
@@ -611,6 +617,7 @@
 				5E4998422C32F9DD00A01777 /* 216. Combination Sum III.swift in Sources */,
 				5EFCD3D72B8A81DD00359C54 /* 543. Diameter of Binary Tree.swift in Sources */,
 				5E5674922B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift in Sources */,
+				5E42C3572C6A9F56000650FA /* 209. Minimum Size Subarray Sum.swift in Sources */,
 				5E49982A2BEEA94900A01777 /* 1231. Divide Chocolate.swift in Sources */,
 				5E448F772B460A83009CA027 /* 383. Ransom Note.swift in Sources */,
 				5EB9B3552B9C6B63002FADF5 /* 1971. Find if Path Exists in Graph.swift in Sources */,
@@ -644,6 +651,7 @@
 				5E4998322BF670DB00A01777 /* 77. Combinations.swift in Sources */,
 				5EFA9C012C4548480041ACE5 /* 2140. Solving Questions With Brainpower.swift in Sources */,
 				5E49983A2C02103A00A01777 /* 52. N-Queens II.swift in Sources */,
+				5E42C3592C6AA8F3000650FA /* 1456. Maximum Number of Vowels in a Substring of Given Length.swift in Sources */,
 				5EA1C1562B852484005323B0 /* 104. Maximum Depth of Binary Tree.swift in Sources */,
 				5E4998242BEA8BD600A01777 /* 1631. Path With Minimum Effort.swift in Sources */,
 				5E41B31F2B55C5AF00C2B0EE /* 876. Middle of the Linked List.swift in Sources */,
