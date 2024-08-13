@@ -40,6 +40,7 @@
 		5E42C3552C6A9748000650FA /* 2000. Reverse Prefix of Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3542C6A9748000650FA /* 2000. Reverse Prefix of Word.swift */; };
 		5E42C3572C6A9F56000650FA /* 209. Minimum Size Subarray Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3562C6A9F56000650FA /* 209. Minimum Size Subarray Sum.swift */; };
 		5E42C3592C6AA8F3000650FA /* 1456. Maximum Number of Vowels in a Substring of Given Length.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3582C6AA8F3000650FA /* 1456. Maximum Number of Vowels in a Substring of Given Length.swift */; };
+		5E42C35B2C6B57CC000650FA /* 1208. Get Equal Substrings Within Budget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C35A2C6B57CC000650FA /* 1208. Get Equal Substrings Within Budget.swift */; };
 		5E4484522BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4484512BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift */; };
 		5E448F5C2B3C5517009CA027 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F5B2B3C5517009CA027 /* main.swift */; };
 		5E448F632B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F622B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift */; };
@@ -204,6 +205,7 @@
 		5E42C3542C6A9748000650FA /* 2000. Reverse Prefix of Word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2000. Reverse Prefix of Word.swift"; sourceTree = "<group>"; };
 		5E42C3562C6A9F56000650FA /* 209. Minimum Size Subarray Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "209. Minimum Size Subarray Sum.swift"; sourceTree = "<group>"; };
 		5E42C3582C6AA8F3000650FA /* 1456. Maximum Number of Vowels in a Substring of Given Length.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1456. Maximum Number of Vowels in a Substring of Given Length.swift"; sourceTree = "<group>"; };
+		5E42C35A2C6B57CC000650FA /* 1208. Get Equal Substrings Within Budget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1208. Get Equal Substrings Within Budget.swift"; sourceTree = "<group>"; };
 		5E4484512BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1091. Shortest Path in Binary Matrix.swift"; sourceTree = "<group>"; };
 		5E448F582B3C5517009CA027 /* dataStructures */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = dataStructures; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E448F5B2B3C5517009CA027 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -457,6 +459,7 @@
 				5E1AF11C2BCD8D0500ED7B26 /* 1167. Minimum Cost to Connect Sticks.swift */,
 				5E448F6A2B40AEA0009CA027 /* 1189. Maximum Number of Balloons .swift */,
 				5E4998132BDFCD9F00A01777 /* 1196. How Many Apples Can You Put into the Basket.swift */,
+				5E42C35A2C6B57CC000650FA /* 1208. Get Equal Substrings Within Budget.swift */,
 				5E4998292BEEA94900A01777 /* 1231. Divide Chocolate.swift */,
 				5E448F642B3F6E5C009CA027 /* 1248. Count Number of Nice Subarrays .swift */,
 				5E4998272BED1FA700A01777 /* 1283. Find the Smallest Divisor Given a Threshold.swift */,
@@ -638,6 +641,7 @@
 				5E4998302BF5136500A01777 /* 78. Subsets.swift in Sources */,
 				5E42C3552C6A9748000650FA /* 2000. Reverse Prefix of Word.swift in Sources */,
 				5E448F672B3F808A009CA027 /* 2225. Find Players With Zero or One Losses .swift in Sources */,
+				5E42C35B2C6B57CC000650FA /* 1208. Get Equal Substrings Within Budget.swift in Sources */,
 				5E4998342BF7999300A01777 /* 797. All Paths From Source to Target.swift in Sources */,
 				5E5C3AA42B6FE12D004CC02C /* 2130. Maximum Twin Sum of a Linked List.swift in Sources */,
 				5E41B3232B5F009700C2B0EE /* 206. Reverse Linked List.swift in Sources */,
