@@ -44,6 +44,9 @@
 		5E42C35D2C6B7E2C000650FA /* 1732. Find the Highest Altitude.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C35C2C6B7E2C000650FA /* 1732. Find the Highest Altitude.swift */; };
 		5E42C35F2C6B8045000650FA /* 724. Find Pivot Index.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C35E2C6B8045000650FA /* 724. Find Pivot Index.swift */; };
 		5E42C3612C6BF9F5000650FA /* 303. Range Sum Query - Immutable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3602C6BF9F5000650FA /* 303. Range Sum Query - Immutable.swift */; };
+		5E42C3632C6CD799000650FA /* 217. Contains Duplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3622C6CD799000650FA /* 217. Contains Duplicate.swift */; };
+		5E42C3652C6CD93F000650FA /* 1436. Destination City.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3642C6CD93F000650FA /* 1436. Destination City.swift */; };
+		5E42C3672C6D0261000650FA /* 1496. Path Crossing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3662C6D0261000650FA /* 1496. Path Crossing.swift */; };
 		5E4484522BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4484512BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift */; };
 		5E448F5C2B3C5517009CA027 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F5B2B3C5517009CA027 /* main.swift */; };
 		5E448F632B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F622B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift */; };
@@ -212,6 +215,9 @@
 		5E42C35C2C6B7E2C000650FA /* 1732. Find the Highest Altitude.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1732. Find the Highest Altitude.swift"; sourceTree = "<group>"; };
 		5E42C35E2C6B8045000650FA /* 724. Find Pivot Index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "724. Find Pivot Index.swift"; sourceTree = "<group>"; };
 		5E42C3602C6BF9F5000650FA /* 303. Range Sum Query - Immutable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "303. Range Sum Query - Immutable.swift"; sourceTree = "<group>"; };
+		5E42C3622C6CD799000650FA /* 217. Contains Duplicate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "217. Contains Duplicate.swift"; sourceTree = "<group>"; };
+		5E42C3642C6CD93F000650FA /* 1436. Destination City.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1436. Destination City.swift"; sourceTree = "<group>"; };
+		5E42C3662C6D0261000650FA /* 1496. Path Crossing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1496. Path Crossing.swift"; sourceTree = "<group>"; };
 		5E4484512BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1091. Shortest Path in Binary Matrix.swift"; sourceTree = "<group>"; };
 		5E448F582B3C5517009CA027 /* dataStructures */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = dataStructures; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E448F5B2B3C5517009CA027 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -401,6 +407,7 @@
 				5E42C3562C6A9F56000650FA /* 209. Minimum Size Subarray Sum.swift */,
 				5EC2AAC22BD12D660056B2AB /* 215. Kth Largest Element in an Array.swift */,
 				5E4998412C32F9DD00A01777 /* 216. Combination Sum III.swift */,
+				5E42C3622C6CD799000650FA /* 217. Contains Duplicate.swift */,
 				5EFCD3D02B88A9A800359C54 /* 236. Lowest Common Ancestor of a Binary Tree.swift */,
 				5E5674932B79537B00D2AAF4 /* 239. Sliding Window Maximum.swift */,
 				5E5BAD6C2B9478DD0039D1DC /* 270. Closest Binary Search Tree Value.swift */,
@@ -476,6 +483,7 @@
 				5EFCD3F92B8D41BC00359C54 /* 1302. Deepest Leaves Sum.swift */,
 				5E37721E2BB9A9DD005B2CEC /* 1306. Jump Game III.swift */,
 				5EC2AAE12BDD81930056B2AB /* 1323. Maximum 69 Number.swift */,
+				5E42C3642C6CD93F000650FA /* 1436. Destination City.swift */,
 				5E4998152BE1153900A01777 /* 1338. Reduce Array Size to The Half.swift */,
 				5EE3DDF62BAB9263003F7686 /* 1346. Check If N and Its Double Exist.swift */,
 				5EB5F7E12B7AC64D00622BF1 /* 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.swift */,
@@ -483,6 +491,7 @@
 				5E42C3582C6AA8F3000650FA /* 1456. Maximum Number of Vowels in a Substring of Given Length.swift */,
 				5ED600282B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift */,
 				5EC2AADD2BDABBC00056B2AB /* 1481. Least Number of Unique Integers after K Removals.swift */,
+				5E42C3662C6D0261000650FA /* 1496. Path Crossing.swift */,
 				5EB625302B7425300033CE3A /* 1544. Make The String Great.swift */,
 				5EB9B34F2B9B1D2C002FADF5 /* 1557. Minimum Number of Vertices to Reach All Nodes.swift */,
 				5E4998232BEA8BD600A01777 /* 1631. Path With Minimum Effort.swift */,
@@ -662,6 +671,7 @@
 				5E4998382BFB600E00A01777 /* 39. Combination Sum.swift in Sources */,
 				5EC2AAC82BD284290056B2AB /* TreeNode.swift in Sources */,
 				5E4998322BF670DB00A01777 /* 77. Combinations.swift in Sources */,
+				5E42C3652C6CD93F000650FA /* 1436. Destination City.swift in Sources */,
 				5EFA9C012C4548480041ACE5 /* 2140. Solving Questions With Brainpower.swift in Sources */,
 				5E49983A2C02103A00A01777 /* 52. N-Queens II.swift in Sources */,
 				5E42C3592C6AA8F3000650FA /* 1456. Maximum Number of Vowels in a Substring of Given Length.swift in Sources */,
@@ -678,6 +688,7 @@
 				5E4484522BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift in Sources */,
 				5E5C3AAA2B718E60004CC02C /* 1047. Remove All Adjacent Duplicates In String.swift in Sources */,
 				5E5BAD6D2B9478DD0039D1DC /* 270. Closest Binary Search Tree Value.swift in Sources */,
+				5E42C3672C6D0261000650FA /* 1496. Path Crossing.swift in Sources */,
 				5EC2AAE02BDC1D0F0056B2AB /* 881. Boats to Save People.swift in Sources */,
 				5EFCD3DB2B8B635B00359C54 /* 515. Find Largest Value in Each Tree Row.swift in Sources */,
 				5E5C3AA22B6FD863004CC02C /* 24. Swap Nodes in Pairs.swift in Sources */,
@@ -720,6 +731,7 @@
 				5EC2AACC2BD284990056B2AB /* BST.swift in Sources */,
 				5E6021842C3BF75300CC42A2 /* 198. House Robber.swift in Sources */,
 				5ED3FCF72BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift in Sources */,
+				5E42C3632C6CD799000650FA /* 217. Contains Duplicate.swift in Sources */,
 				5E11C2F32BA0C50A0068484B /* 2368. Reachable Nodes With Restrictions.swift in Sources */,
 				5EB9B3502B9B1D2C002FADF5 /* 1557. Minimum Number of Vertices to Reach All Nodes.swift in Sources */,
 				5EFCD4032B8E66AD00359C54 /* 103. Binary Tree Zigzag Level Order Traversal.swift in Sources */,
