@@ -47,6 +47,10 @@
 		5E42C3632C6CD799000650FA /* 217. Contains Duplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3622C6CD799000650FA /* 217. Contains Duplicate.swift */; };
 		5E42C3652C6CD93F000650FA /* 1436. Destination City.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3642C6CD93F000650FA /* 1436. Destination City.swift */; };
 		5E42C3672C6D0261000650FA /* 1496. Path Crossing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3662C6D0261000650FA /* 1496. Path Crossing.swift */; };
+		5E42C3692C6D0D0E000650FA /* 1748. Sum of Unique Elements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3682C6D0D0E000650FA /* 1748. Sum of Unique Elements.swift */; };
+		5E42C36B2C6DFA5A000650FA /* 3005. Count Elements With Maximum Frequency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C36A2C6DFA5A000650FA /* 3005. Count Elements With Maximum Frequency.swift */; };
+		5E42C36D2C6E05DA000650FA /* 1394. Find Lucky Integer in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C36C2C6E05DA000650FA /* 1394. Find Lucky Integer in an Array.swift */; };
+		5E42C36F2C6E18D5000650FA /* 1207. Unique Number of Occurrences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C36E2C6E18D5000650FA /* 1207. Unique Number of Occurrences.swift */; };
 		5E4484522BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4484512BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift */; };
 		5E448F5C2B3C5517009CA027 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F5B2B3C5517009CA027 /* main.swift */; };
 		5E448F632B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F622B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift */; };
@@ -218,6 +222,10 @@
 		5E42C3622C6CD799000650FA /* 217. Contains Duplicate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "217. Contains Duplicate.swift"; sourceTree = "<group>"; };
 		5E42C3642C6CD93F000650FA /* 1436. Destination City.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1436. Destination City.swift"; sourceTree = "<group>"; };
 		5E42C3662C6D0261000650FA /* 1496. Path Crossing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1496. Path Crossing.swift"; sourceTree = "<group>"; };
+		5E42C3682C6D0D0E000650FA /* 1748. Sum of Unique Elements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1748. Sum of Unique Elements.swift"; sourceTree = "<group>"; };
+		5E42C36A2C6DFA5A000650FA /* 3005. Count Elements With Maximum Frequency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3005. Count Elements With Maximum Frequency.swift"; sourceTree = "<group>"; };
+		5E42C36C2C6E05DA000650FA /* 1394. Find Lucky Integer in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1394. Find Lucky Integer in an Array.swift"; sourceTree = "<group>"; };
+		5E42C36E2C6E18D5000650FA /* 1207. Unique Number of Occurrences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1207. Unique Number of Occurrences.swift"; sourceTree = "<group>"; };
 		5E4484512BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1091. Shortest Path in Binary Matrix.swift"; sourceTree = "<group>"; };
 		5E448F582B3C5517009CA027 /* dataStructures */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = dataStructures; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E448F5B2B3C5517009CA027 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -474,6 +482,7 @@
 				5E1AF11C2BCD8D0500ED7B26 /* 1167. Minimum Cost to Connect Sticks.swift */,
 				5E448F6A2B40AEA0009CA027 /* 1189. Maximum Number of Balloons .swift */,
 				5E4998132BDFCD9F00A01777 /* 1196. How Many Apples Can You Put into the Basket.swift */,
+				5E42C36E2C6E18D5000650FA /* 1207. Unique Number of Occurrences.swift */,
 				5E42C35A2C6B57CC000650FA /* 1208. Get Equal Substrings Within Budget.swift */,
 				5E4998292BEEA94900A01777 /* 1231. Divide Chocolate.swift */,
 				5E448F642B3F6E5C009CA027 /* 1248. Count Number of Nice Subarrays .swift */,
@@ -483,9 +492,10 @@
 				5EFCD3F92B8D41BC00359C54 /* 1302. Deepest Leaves Sum.swift */,
 				5E37721E2BB9A9DD005B2CEC /* 1306. Jump Game III.swift */,
 				5EC2AAE12BDD81930056B2AB /* 1323. Maximum 69 Number.swift */,
-				5E42C3642C6CD93F000650FA /* 1436. Destination City.swift */,
 				5E4998152BE1153900A01777 /* 1338. Reduce Array Size to The Half.swift */,
 				5EE3DDF62BAB9263003F7686 /* 1346. Check If N and Its Double Exist.swift */,
+				5E42C36C2C6E05DA000650FA /* 1394. Find Lucky Integer in an Array.swift */,
+				5E42C3642C6CD93F000650FA /* 1436. Destination City.swift */,
 				5EB5F7E12B7AC64D00622BF1 /* 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.swift */,
 				5EFCD3CC2B87C3A800359C54 /* 1448. Count Good Nodes in Binary Tree.swift */,
 				5E42C3582C6AA8F3000650FA /* 1456. Maximum Number of Vowels in a Substring of Given Length.swift */,
@@ -497,6 +507,7 @@
 				5E4998232BEA8BD600A01777 /* 1631. Path With Minimum Effort.swift */,
 				5E4998112BDEBAD300A01777 /* 1710. Maximum Units on a Truck.swift */,
 				5E42C35C2C6B7E2C000650FA /* 1732. Find the Highest Altitude.swift */,
+				5E42C3682C6D0D0E000650FA /* 1748. Sum of Unique Elements.swift */,
 				5E4998252BEBBF0500A01777 /* 1870. Minimum Speed to Arrive on Time.swift */,
 				5EE3DDFC2BAF4550003F7686 /* 1926. Nearest Exit from Entrance in Maze.swift */,
 				5E1AF11A2BCD892500ED7B26 /* 1962. Remove Stones to Minimize the Total.swift */,
@@ -518,6 +529,7 @@
 				5E11C2F22BA0C50A0068484B /* 2368. Reachable Nodes With Restrictions.swift */,
 				5E49981F2BE7847C00A01777 /* 2389. Longest Subsequence With Limited Sum.swift */,
 				5E42C3522C6A94D0000650FA /* 2540. Minimum Common Value.swift */,
+				5E42C36A2C6DFA5A000650FA /* 3005. Count Elements With Maximum Frequency.swift */,
 			);
 			path = dataStructures;
 			sourceTree = "<group>";
@@ -619,6 +631,7 @@
 				5E448F5C2B3C5517009CA027 /* main.swift in Sources */,
 				5E56748E2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift in Sources */,
 				5EB616832BC7158C004A5F03 /* 75. Sort Colors.swift in Sources */,
+				5E42C36B2C6DFA5A000650FA /* 3005. Count Elements With Maximum Frequency.swift in Sources */,
 				5EE3DDF72BAB9263003F7686 /* 1346. Check If N and Its Double Exist.swift in Sources */,
 				5EC2AADA2BD82E9A0056B2AB /* 2294. Partition Array Such That Maximum Difference Is K.swift in Sources */,
 				5E448F792B460DE0009CA027 /* 771. Jewels and Stones .swift in Sources */,
@@ -632,6 +645,7 @@
 				5E1AF1192BC9D8F200ED7B26 /* 295. Find Median from Data Stream.swift in Sources */,
 				5E42C3492C6230D3000650FA /* 64. Minimum Path Sum.swift in Sources */,
 				5E4998362BF92DB000A01777 /* 17. Letter Combinations of a Phone Number.swift in Sources */,
+				5E42C36D2C6E05DA000650FA /* 1394. Find Lucky Integer in an Array.swift in Sources */,
 				5E448F652B3F6E5C009CA027 /* 1248. Count Number of Nice Subarrays .swift in Sources */,
 				5E4998402C32F0B600A01777 /* 967. Numbers With Same Consecutive Differences.swift in Sources */,
 				5E5C3AA82B718704004CC02C /* 20. Valid Parentheses.swift in Sources */,
@@ -667,6 +681,7 @@
 				5E5BAD6B2B9329270039D1DC /* 701. Insert into a Binary Search Tree.swift in Sources */,
 				5E448F6B2B40AEA0009CA027 /* 1189. Maximum Number of Balloons .swift in Sources */,
 				5E0AA44F2BC294380061D826 /* 1046. Last Stone Weight.swift in Sources */,
+				5E42C36F2C6E18D5000650FA /* 1207. Unique Number of Occurrences.swift in Sources */,
 				5EC2AADC2BD956190056B2AB /* 502. IPO.swift in Sources */,
 				5E4998382BFB600E00A01777 /* 39. Combination Sum.swift in Sources */,
 				5EC2AAC82BD284290056B2AB /* TreeNode.swift in Sources */,
@@ -741,6 +756,7 @@
 				5E448F632B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift in Sources */,
 				5E8227A72B8FC31B008DC5CE /* 938. Range Sum of BST.swift in Sources */,
 				5EE3DDFD2BAF4550003F7686 /* 1926. Nearest Exit from Entrance in Maze.swift in Sources */,
+				5E42C3692C6D0D0E000650FA /* 1748. Sum of Unique Elements.swift in Sources */,
 				5E49983E2C1B888100A01777 /* 22. Generate Parentheses.swift in Sources */,
 				5E0AA44B2BC06AB50061D826 /* 2101. Detonate the Maximum Bombs.swift in Sources */,
 				5EC2AACE2BD284CE0056B2AB /* Tree.swift in Sources */,
