@@ -52,6 +52,7 @@
 		5E42C36D2C6E05DA000650FA /* 1394. Find Lucky Integer in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C36C2C6E05DA000650FA /* 1394. Find Lucky Integer in an Array.swift */; };
 		5E42C36F2C6E18D5000650FA /* 1207. Unique Number of Occurrences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C36E2C6E18D5000650FA /* 1207. Unique Number of Occurrences.swift */; };
 		5E42C3712C6E1EEF000650FA /* 1094. Car Pooling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3702C6E1EEF000650FA /* 1094. Car Pooling.swift */; };
+		5E42C3732C6E25BC000650FA /* 860. Lemonade Change.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42C3722C6E25BC000650FA /* 860. Lemonade Change.swift */; };
 		5E4484522BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4484512BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift */; };
 		5E448F5C2B3C5517009CA027 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F5B2B3C5517009CA027 /* main.swift */; };
 		5E448F632B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E448F622B3C6BBA009CA027 /* 2090. K Radius Subarray Averages .swift */; };
@@ -108,6 +109,7 @@
 		5E5C3AAC2B71908A004CC02C /* 844. Backspace String Compare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5C3AAB2B71908A004CC02C /* 844. Backspace String Compare.swift */; };
 		5E6021842C3BF75300CC42A2 /* 198. House Robber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6021832C3BF75300CC42A2 /* 198. House Robber.swift */; };
 		5E63F7B72BB377580036B95C /* 283. Move Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E63F7B62BB377580036B95C /* 283. Move Zeroes.swift */; };
+		5E6666FB2C6F449D00902EED /* 451. Sort Characters By Frequency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6666FA2C6F449D00902EED /* 451. Sort Characters By Frequency.swift */; };
 		5E6B9E242B4F442C003740C8 /* 141. Linked List Cycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6B9E232B4F442C003740C8 /* 141. Linked List Cycle.swift */; };
 		5E7659A12C51324000BA0C04 /* 188. Best Time to Buy and Sell Stock IV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E7659A02C51324000BA0C04 /* 188. Best Time to Buy and Sell Stock IV.swift */; };
 		5E7659A32C5A754200BA0C04 /* 2218. Maximum Value of K Coins From Piles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E7659A22C5A754200BA0C04 /* 2218. Maximum Value of K Coins From Piles.swift */; };
@@ -228,6 +230,7 @@
 		5E42C36C2C6E05DA000650FA /* 1394. Find Lucky Integer in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1394. Find Lucky Integer in an Array.swift"; sourceTree = "<group>"; };
 		5E42C36E2C6E18D5000650FA /* 1207. Unique Number of Occurrences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1207. Unique Number of Occurrences.swift"; sourceTree = "<group>"; };
 		5E42C3702C6E1EEF000650FA /* 1094. Car Pooling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1094. Car Pooling.swift"; sourceTree = "<group>"; };
+		5E42C3722C6E25BC000650FA /* 860. Lemonade Change.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "860. Lemonade Change.swift"; sourceTree = "<group>"; };
 		5E4484512BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1091. Shortest Path in Binary Matrix.swift"; sourceTree = "<group>"; };
 		5E448F582B3C5517009CA027 /* dataStructures */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = dataStructures; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E448F5B2B3C5517009CA027 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -285,6 +288,7 @@
 		5E5C3AAB2B71908A004CC02C /* 844. Backspace String Compare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "844. Backspace String Compare.swift"; sourceTree = "<group>"; };
 		5E6021832C3BF75300CC42A2 /* 198. House Robber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "198. House Robber.swift"; sourceTree = "<group>"; };
 		5E63F7B62BB377580036B95C /* 283. Move Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "283. Move Zeroes.swift"; sourceTree = "<group>"; };
+		5E6666FA2C6F449D00902EED /* 451. Sort Characters By Frequency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "451. Sort Characters By Frequency.swift"; sourceTree = "<group>"; };
 		5E6B9E232B4F442C003740C8 /* 141. Linked List Cycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "141. Linked List Cycle.swift"; sourceTree = "<group>"; };
 		5E7659A02C51324000BA0C04 /* 188. Best Time to Buy and Sell Stock IV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "188. Best Time to Buy and Sell Stock IV.swift"; sourceTree = "<group>"; };
 		5E7659A22C5A754200BA0C04 /* 2218. Maximum Value of K Coins From Piles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2218. Maximum Value of K Coins From Piles.swift"; sourceTree = "<group>"; };
@@ -436,6 +440,7 @@
 				5E3772202BBB4D64005B2CEC /* 414. Third Maximum Number.swift */,
 				5E37721C2BB88D78005B2CEC /* 433. Minimum Genetic Mutation.swift */,
 				5ED3FCF62BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift */,
+				5E6666FA2C6F449D00902EED /* 451. Sort Characters By Frequency.swift */,
 				5EA1C1512B83CDF9005323B0 /* 496. Next Greater Element I.swift */,
 				5EC2AADB2BD956190056B2AB /* 502. IPO.swift */,
 				5EFCD3DA2B8B635B00359C54 /* 515. Find Largest Value in Each Tree Row.swift */,
@@ -459,6 +464,7 @@
 				5E4998332BF7999300A01777 /* 797. All Paths From Source to Target.swift */,
 				5EB9B34D2B9A2CD1002FADF5 /* 841. Keys and Rooms.swift */,
 				5E5C3AAB2B71908A004CC02C /* 844. Backspace String Compare.swift */,
+				5E42C3722C6E25BC000650FA /* 860. Lemonade Change.swift */,
 				5E8097E02BA3A0A200284880 /* 863. All Nodes Distance K in Binary Tree.swift */,
 				5E4998212BE90B9C00A01777 /* 875. Koko Eating Bananas.swift */,
 				5E41B31E2B55C5AF00C2B0EE /* 876. Middle of the Linked List.swift */,
@@ -710,6 +716,7 @@
 				5E42C3672C6D0261000650FA /* 1496. Path Crossing.swift in Sources */,
 				5EC2AAE02BDC1D0F0056B2AB /* 881. Boats to Save People.swift in Sources */,
 				5EFCD3DB2B8B635B00359C54 /* 515. Find Largest Value in Each Tree Row.swift in Sources */,
+				5E42C3732C6E25BC000650FA /* 860. Lemonade Change.swift in Sources */,
 				5E5C3AA22B6FD863004CC02C /* 24. Swap Nodes in Pairs.swift in Sources */,
 				5EA1C1542B83D87E005323B0 /* 901. Online Stock Span.swift in Sources */,
 				5E49982E2BF3E89700A01777 /* 46. Permutations.swift in Sources */,
@@ -767,6 +774,7 @@
 				5E8227A92B8FD3D8008DC5CE /* 530. Minimum Absolute Difference in BST.swift in Sources */,
 				5E0AA4512BC4807A0061D826 /* 2208. Minimum Operations to Halve Array Sum.swift in Sources */,
 				5E5C3AAC2B71908A004CC02C /* 844. Backspace String Compare.swift in Sources */,
+				5E6666FB2C6F449D00902EED /* 451. Sort Characters By Frequency.swift in Sources */,
 				5E4998282BED1FA700A01777 /* 1283. Find the Smallest Divisor Given a Threshold.swift in Sources */,
 				5EF72D8B2BB4CB1100B8CF21 /* 905. Sort Array By Parity.swift in Sources */,
 			);
