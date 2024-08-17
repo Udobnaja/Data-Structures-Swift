@@ -114,6 +114,7 @@
 		5E6666FF2C6F77F400902EED /* 624. Maximum Distance in Arrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6666FE2C6F77F400902EED /* 624. Maximum Distance in Arrays.swift */; };
 		5E6667012C707D2700902EED /* 208. Implement Trie (Prefix Tree).swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6667002C707D2700902EED /* 208. Implement Trie (Prefix Tree).swift */; };
 		5E6667032C70823A00902EED /* 2958. Length of Longest Subarray With at Most K Frequency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6667022C70823A00902EED /* 2958. Length of Longest Subarray With at Most K Frequency.swift */; };
+		5E6667052C70E5CA00902EED /* 1937. Maximum Number of Points with Cost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6667042C70E5CA00902EED /* 1937. Maximum Number of Points with Cost.swift */; };
 		5E6B9E242B4F442C003740C8 /* 141. Linked List Cycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6B9E232B4F442C003740C8 /* 141. Linked List Cycle.swift */; };
 		5E7659A12C51324000BA0C04 /* 188. Best Time to Buy and Sell Stock IV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E7659A02C51324000BA0C04 /* 188. Best Time to Buy and Sell Stock IV.swift */; };
 		5E7659A32C5A754200BA0C04 /* 2218. Maximum Value of K Coins From Piles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E7659A22C5A754200BA0C04 /* 2218. Maximum Value of K Coins From Piles.swift */; };
@@ -297,6 +298,7 @@
 		5E6666FE2C6F77F400902EED /* 624. Maximum Distance in Arrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "624. Maximum Distance in Arrays.swift"; sourceTree = "<group>"; };
 		5E6667002C707D2700902EED /* 208. Implement Trie (Prefix Tree).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "208. Implement Trie (Prefix Tree).swift"; sourceTree = "<group>"; };
 		5E6667022C70823A00902EED /* 2958. Length of Longest Subarray With at Most K Frequency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2958. Length of Longest Subarray With at Most K Frequency.swift"; sourceTree = "<group>"; };
+		5E6667042C70E5CA00902EED /* 1937. Maximum Number of Points with Cost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1937. Maximum Number of Points with Cost.swift"; sourceTree = "<group>"; };
 		5E6B9E232B4F442C003740C8 /* 141. Linked List Cycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "141. Linked List Cycle.swift"; sourceTree = "<group>"; };
 		5E7659A02C51324000BA0C04 /* 188. Best Time to Buy and Sell Stock IV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "188. Best Time to Buy and Sell Stock IV.swift"; sourceTree = "<group>"; };
 		5E7659A22C5A754200BA0C04 /* 2218. Maximum Value of K Coins From Piles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2218. Maximum Value of K Coins From Piles.swift"; sourceTree = "<group>"; };
@@ -530,6 +532,7 @@
 				5E42C3682C6D0D0E000650FA /* 1748. Sum of Unique Elements.swift */,
 				5E4998252BEBBF0500A01777 /* 1870. Minimum Speed to Arrive on Time.swift */,
 				5EE3DDFC2BAF4550003F7686 /* 1926. Nearest Exit from Entrance in Maze.swift */,
+				5E6667042C70E5CA00902EED /* 1937. Maximum Number of Points with Cost.swift */,
 				5E1AF11A2BCD892500ED7B26 /* 1962. Remove Stones to Minimize the Total.swift */,
 				5EB9B3542B9C6B63002FADF5 /* 1971. Find if Path Exists in Graph.swift */,
 				5E42C3542C6A9748000650FA /* 2000. Reverse Prefix of Word.swift */,
@@ -691,6 +694,7 @@
 				5E49982C2BF120F900A01777 /* 410. Split Array Largest Sum.swift in Sources */,
 				5E448F6D2B4486FA009CA027 /* 525. Contiguous Array.swift in Sources */,
 				5EE044942C4ACDA8004A2831 /* 322. Coin Change.swift in Sources */,
+				5E6667052C70E5CA00902EED /* 1937. Maximum Number of Points with Cost.swift in Sources */,
 				5E448F7B2B474AA6009CA027 /* 3. Longest Substring Without Repeating Characters .swift in Sources */,
 				5E4998302BF5136500A01777 /* 78. Subsets.swift in Sources */,
 				5E42C3552C6A9748000650FA /* 2000. Reverse Prefix of Word.swift in Sources */,
