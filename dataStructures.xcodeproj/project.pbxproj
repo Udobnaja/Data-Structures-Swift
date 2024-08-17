@@ -113,6 +113,7 @@
 		5E6666FD2C6F4C4400902EED /* 1268. Search Suggestions System.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6666FC2C6F4C4400902EED /* 1268. Search Suggestions System.swift */; };
 		5E6666FF2C6F77F400902EED /* 624. Maximum Distance in Arrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6666FE2C6F77F400902EED /* 624. Maximum Distance in Arrays.swift */; };
 		5E6667012C707D2700902EED /* 208. Implement Trie (Prefix Tree).swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6667002C707D2700902EED /* 208. Implement Trie (Prefix Tree).swift */; };
+		5E6667032C70823A00902EED /* 2958. Length of Longest Subarray With at Most K Frequency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6667022C70823A00902EED /* 2958. Length of Longest Subarray With at Most K Frequency.swift */; };
 		5E6B9E242B4F442C003740C8 /* 141. Linked List Cycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6B9E232B4F442C003740C8 /* 141. Linked List Cycle.swift */; };
 		5E7659A12C51324000BA0C04 /* 188. Best Time to Buy and Sell Stock IV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E7659A02C51324000BA0C04 /* 188. Best Time to Buy and Sell Stock IV.swift */; };
 		5E7659A32C5A754200BA0C04 /* 2218. Maximum Value of K Coins From Piles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E7659A22C5A754200BA0C04 /* 2218. Maximum Value of K Coins From Piles.swift */; };
@@ -295,6 +296,7 @@
 		5E6666FC2C6F4C4400902EED /* 1268. Search Suggestions System.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1268. Search Suggestions System.swift"; sourceTree = "<group>"; };
 		5E6666FE2C6F77F400902EED /* 624. Maximum Distance in Arrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "624. Maximum Distance in Arrays.swift"; sourceTree = "<group>"; };
 		5E6667002C707D2700902EED /* 208. Implement Trie (Prefix Tree).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "208. Implement Trie (Prefix Tree).swift"; sourceTree = "<group>"; };
+		5E6667022C70823A00902EED /* 2958. Length of Longest Subarray With at Most K Frequency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2958. Length of Longest Subarray With at Most K Frequency.swift"; sourceTree = "<group>"; };
 		5E6B9E232B4F442C003740C8 /* 141. Linked List Cycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "141. Linked List Cycle.swift"; sourceTree = "<group>"; };
 		5E7659A02C51324000BA0C04 /* 188. Best Time to Buy and Sell Stock IV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "188. Best Time to Buy and Sell Stock IV.swift"; sourceTree = "<group>"; };
 		5E7659A22C5A754200BA0C04 /* 2218. Maximum Value of K Coins From Piles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2218. Maximum Value of K Coins From Piles.swift"; sourceTree = "<group>"; };
@@ -547,6 +549,7 @@
 				5E11C2F22BA0C50A0068484B /* 2368. Reachable Nodes With Restrictions.swift */,
 				5E49981F2BE7847C00A01777 /* 2389. Longest Subsequence With Limited Sum.swift */,
 				5E42C3522C6A94D0000650FA /* 2540. Minimum Common Value.swift */,
+				5E6667022C70823A00902EED /* 2958. Length of Longest Subarray With at Most K Frequency.swift */,
 				5E42C36A2C6DFA5A000650FA /* 3005. Count Elements With Maximum Frequency.swift */,
 			);
 			path = dataStructures;
@@ -750,6 +753,7 @@
 				5E42C3612C6BF9F5000650FA /* 303. Range Sum Query - Immutable.swift in Sources */,
 				5EA1C1522B83CDF9005323B0 /* 496. Next Greater Element I.swift in Sources */,
 				5E4998122BDEBAD300A01777 /* 1710. Maximum Units on a Truck.swift in Sources */,
+				5E6667032C70823A00902EED /* 2958. Length of Longest Subarray With at Most K Frequency.swift in Sources */,
 				5E37721B2BB6F79A005B2CEC /* 1051. Height Checker.swift in Sources */,
 				5E8097E12BA3A0A200284880 /* 863. All Nodes Distance K in Binary Tree.swift in Sources */,
 				5EC2AAC12BCFC3660056B2AB /* 658. Find K Closest Elements.swift in Sources */,
