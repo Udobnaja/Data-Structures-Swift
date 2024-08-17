@@ -115,6 +115,7 @@
 		5E6667012C707D2700902EED /* 208. Implement Trie (Prefix Tree).swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6667002C707D2700902EED /* 208. Implement Trie (Prefix Tree).swift */; };
 		5E6667032C70823A00902EED /* 2958. Length of Longest Subarray With at Most K Frequency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6667022C70823A00902EED /* 2958. Length of Longest Subarray With at Most K Frequency.swift */; };
 		5E6667052C70E5CA00902EED /* 1937. Maximum Number of Points with Cost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6667042C70E5CA00902EED /* 1937. Maximum Number of Points with Cost.swift */; };
+		5E6667072C7148EC00902EED /* 1512. Number of Good Pairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6667062C7148EC00902EED /* 1512. Number of Good Pairs.swift */; };
 		5E6B9E242B4F442C003740C8 /* 141. Linked List Cycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6B9E232B4F442C003740C8 /* 141. Linked List Cycle.swift */; };
 		5E7659A12C51324000BA0C04 /* 188. Best Time to Buy and Sell Stock IV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E7659A02C51324000BA0C04 /* 188. Best Time to Buy and Sell Stock IV.swift */; };
 		5E7659A32C5A754200BA0C04 /* 2218. Maximum Value of K Coins From Piles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E7659A22C5A754200BA0C04 /* 2218. Maximum Value of K Coins From Piles.swift */; };
@@ -299,6 +300,7 @@
 		5E6667002C707D2700902EED /* 208. Implement Trie (Prefix Tree).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "208. Implement Trie (Prefix Tree).swift"; sourceTree = "<group>"; };
 		5E6667022C70823A00902EED /* 2958. Length of Longest Subarray With at Most K Frequency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2958. Length of Longest Subarray With at Most K Frequency.swift"; sourceTree = "<group>"; };
 		5E6667042C70E5CA00902EED /* 1937. Maximum Number of Points with Cost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1937. Maximum Number of Points with Cost.swift"; sourceTree = "<group>"; };
+		5E6667062C7148EC00902EED /* 1512. Number of Good Pairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1512. Number of Good Pairs.swift"; sourceTree = "<group>"; };
 		5E6B9E232B4F442C003740C8 /* 141. Linked List Cycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "141. Linked List Cycle.swift"; sourceTree = "<group>"; };
 		5E7659A02C51324000BA0C04 /* 188. Best Time to Buy and Sell Stock IV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "188. Best Time to Buy and Sell Stock IV.swift"; sourceTree = "<group>"; };
 		5E7659A22C5A754200BA0C04 /* 2218. Maximum Value of K Coins From Piles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2218. Maximum Value of K Coins From Piles.swift"; sourceTree = "<group>"; };
@@ -524,6 +526,7 @@
 				5ED600282B97650C0091A08B /* 1466. Reorder Routes to Make All Paths Lead to the City Zero.swift */,
 				5EC2AADD2BDABBC00056B2AB /* 1481. Least Number of Unique Integers after K Removals.swift */,
 				5E42C3662C6D0261000650FA /* 1496. Path Crossing.swift */,
+				5E6667062C7148EC00902EED /* 1512. Number of Good Pairs.swift */,
 				5EB625302B7425300033CE3A /* 1544. Make The String Great.swift */,
 				5EB9B34F2B9B1D2C002FADF5 /* 1557. Minimum Number of Vertices to Reach All Nodes.swift */,
 				5E4998232BEA8BD600A01777 /* 1631. Path With Minimum Effort.swift */,
@@ -788,6 +791,7 @@
 				5E8227A72B8FC31B008DC5CE /* 938. Range Sum of BST.swift in Sources */,
 				5EE3DDFD2BAF4550003F7686 /* 1926. Nearest Exit from Entrance in Maze.swift in Sources */,
 				5E42C3692C6D0D0E000650FA /* 1748. Sum of Unique Elements.swift in Sources */,
+				5E6667072C7148EC00902EED /* 1512. Number of Good Pairs.swift in Sources */,
 				5E49983E2C1B888100A01777 /* 22. Generate Parentheses.swift in Sources */,
 				5E0AA44B2BC06AB50061D826 /* 2101. Detonate the Maximum Bombs.swift in Sources */,
 				5EC2AACE2BD284CE0056B2AB /* Tree.swift in Sources */,
