@@ -117,6 +117,7 @@
 		5E6667052C70E5CA00902EED /* 1937. Maximum Number of Points with Cost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6667042C70E5CA00902EED /* 1937. Maximum Number of Points with Cost.swift */; };
 		5E6667072C7148EC00902EED /* 1512. Number of Good Pairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6667062C7148EC00902EED /* 1512. Number of Good Pairs.swift */; };
 		5E6667092C732E1100902EED /* 264. Ugly Number II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6667082C732E1100902EED /* 264. Ugly Number II.swift */; };
+		5E66670B2C73A44500902EED /* 136. Single Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E66670A2C73A44500902EED /* 136. Single Number.swift */; };
 		5E6B9E242B4F442C003740C8 /* 141. Linked List Cycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6B9E232B4F442C003740C8 /* 141. Linked List Cycle.swift */; };
 		5E7659A12C51324000BA0C04 /* 188. Best Time to Buy and Sell Stock IV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E7659A02C51324000BA0C04 /* 188. Best Time to Buy and Sell Stock IV.swift */; };
 		5E7659A32C5A754200BA0C04 /* 2218. Maximum Value of K Coins From Piles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E7659A22C5A754200BA0C04 /* 2218. Maximum Value of K Coins From Piles.swift */; };
@@ -303,6 +304,7 @@
 		5E6667042C70E5CA00902EED /* 1937. Maximum Number of Points with Cost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1937. Maximum Number of Points with Cost.swift"; sourceTree = "<group>"; };
 		5E6667062C7148EC00902EED /* 1512. Number of Good Pairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1512. Number of Good Pairs.swift"; sourceTree = "<group>"; };
 		5E6667082C732E1100902EED /* 264. Ugly Number II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "264. Ugly Number II.swift"; sourceTree = "<group>"; };
+		5E66670A2C73A44500902EED /* 136. Single Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "136. Single Number.swift"; sourceTree = "<group>"; };
 		5E6B9E232B4F442C003740C8 /* 141. Linked List Cycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "141. Linked List Cycle.swift"; sourceTree = "<group>"; };
 		5E7659A02C51324000BA0C04 /* 188. Best Time to Buy and Sell Stock IV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "188. Best Time to Buy and Sell Stock IV.swift"; sourceTree = "<group>"; };
 		5E7659A22C5A754200BA0C04 /* 2218. Maximum Value of K Coins From Piles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2218. Maximum Value of K Coins From Piles.swift"; sourceTree = "<group>"; };
@@ -426,6 +428,7 @@
 				5EFCD3D22B88C13300359C54 /* 111. Minimum Depth of Binary Tree.swift */,
 				5EFCD3B52B86977900359C54 /* 112. Path Sum.swift */,
 				5E0AA44C2BC150000061D826 /* 127. Word Ladder.swift */,
+				5E66670A2C73A44500902EED /* 136. Single Number.swift */,
 				5E6B9E232B4F442C003740C8 /* 141. Linked List Cycle.swift */,
 				5E7659A02C51324000BA0C04 /* 188. Best Time to Buy and Sell Stock IV.swift */,
 				5E6021832C3BF75300CC42A2 /* 198. House Robber.swift */,
@@ -734,6 +737,7 @@
 				5E6667012C707D2700902EED /* 208. Implement Trie (Prefix Tree).swift in Sources */,
 				5EC2AAC32BD12D660056B2AB /* 215. Kth Largest Element in an Array.swift in Sources */,
 				5E4998202BE7847C00A01777 /* 2389. Longest Subsequence With Limited Sum.swift in Sources */,
+				5E66670B2C73A44500902EED /* 136. Single Number.swift in Sources */,
 				5E4484522BA244C9003600B7 /* 1091. Shortest Path in Binary Matrix.swift in Sources */,
 				5E5C3AAA2B718E60004CC02C /* 1047. Remove All Adjacent Duplicates In String.swift in Sources */,
 				5E5BAD6D2B9478DD0039D1DC /* 270. Closest Binary Search Tree Value.swift in Sources */,
