@@ -7,6 +7,7 @@
 
 import Foundation
 
+// backtracking
 func totalNQueens(_ n: Int) -> Int {
     var res = 0
     
@@ -74,5 +75,7 @@ func totalNQueens(_ n: Int) -> Int {
     
     return res
 }
+
+//backtracking + bit mask safe memory space
 
 //print(totalNQueens(5))

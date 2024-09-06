@@ -9,4 +9,8 @@ import Foundation
 // Monotonic
 // Heap
 // DP
+// Bit Manipulation
+// Intervals
+// Modular arithmetic
+// Dijkstra's
 

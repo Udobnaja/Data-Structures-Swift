@@ -119,6 +119,19 @@
 		5E6667092C732E1100902EED /* 264. Ugly Number II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6667082C732E1100902EED /* 264. Ugly Number II.swift */; };
 		5E66670B2C73A44500902EED /* 136. Single Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E66670A2C73A44500902EED /* 136. Single Number.swift */; };
 		5E66670D2C73A82500902EED /* 650. 2 Keys Keyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E66670C2C73A82500902EED /* 650. 2 Keys Keyboard.swift */; };
+		5E66670F2C7CFADC00902EED /* 461. Hamming Distance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E66670E2C7CFADC00902EED /* 461. Hamming Distance.swift */; };
+		5E6667132C7DF5D500902EED /* 56. Merge Intervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6667122C7DF5D500902EED /* 56. Merge Intervals.swift */; };
+		5E6667152C7E0D3D00902EED /* 2233. Maximum Product After K Increments.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6667142C7E0D3D00902EED /* 2233. Maximum Product After K Increments.swift */; };
+		5E6667172C7E0D6700902EED /* 57. Insert Interval.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6667162C7E0D6700902EED /* 57. Insert Interval.swift */; };
+		5E6667192C7F5BFD00902EED /* 2575. Find the Divisibility Array of a String  .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6667182C7F5BFD00902EED /* 2575. Find the Divisibility Array of a String  .swift */; };
+		5E66671B2C7F633F00902EED /* 743. Network Delay Time.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E66671A2C7F633F00902EED /* 743. Network Delay Time.swift */; };
+		5E66671D2C820E4000902EED /* 787. Cheapest Flights Within K Stops.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E66671C2C820E4000902EED /* 787. Cheapest Flights Within K Stops.swift */; };
+		5E66671F2C860ECF00902EED /* 930. Binary Subarrays With Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E66671E2C860ECF00902EED /* 930. Binary Subarrays With Sum.swift */; };
+		5E6667212C861E2300902EED /* 1695. Maximum Erasure Value.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6667202C861E2300902EED /* 1695. Maximum Erasure Value.swift */; };
+		5E6667232C8736F900902EED /* 567. Permutation in String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6667222C8736F900902EED /* 567. Permutation in String.swift */; };
+		5E6667252C88C3A600902EED /* 205. Isomorphic Strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6667242C88C3A600902EED /* 205. Isomorphic Strings.swift */; };
+		5E6667272C89D7BA00902EED /* 290. Word Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6667262C89D7BA00902EED /* 290. Word Pattern.swift */; };
+		5E6667292C8B46A800902EED /* 791. Custom Sort String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6667282C8B46A800902EED /* 791. Custom Sort String.swift */; };
 		5E6B9E242B4F442C003740C8 /* 141. Linked List Cycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6B9E232B4F442C003740C8 /* 141. Linked List Cycle.swift */; };
 		5E7659A12C51324000BA0C04 /* 188. Best Time to Buy and Sell Stock IV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E7659A02C51324000BA0C04 /* 188. Best Time to Buy and Sell Stock IV.swift */; };
 		5E7659A32C5A754200BA0C04 /* 2218. Maximum Value of K Coins From Piles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E7659A22C5A754200BA0C04 /* 2218. Maximum Value of K Coins From Piles.swift */; };
@@ -307,6 +320,19 @@
 		5E6667082C732E1100902EED /* 264. Ugly Number II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "264. Ugly Number II.swift"; sourceTree = "<group>"; };
 		5E66670A2C73A44500902EED /* 136. Single Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "136. Single Number.swift"; sourceTree = "<group>"; };
 		5E66670C2C73A82500902EED /* 650. 2 Keys Keyboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "650. 2 Keys Keyboard.swift"; sourceTree = "<group>"; };
+		5E66670E2C7CFADC00902EED /* 461. Hamming Distance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "461. Hamming Distance.swift"; sourceTree = "<group>"; };
+		5E6667122C7DF5D500902EED /* 56. Merge Intervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "56. Merge Intervals.swift"; sourceTree = "<group>"; };
+		5E6667142C7E0D3D00902EED /* 2233. Maximum Product After K Increments.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2233. Maximum Product After K Increments.swift"; sourceTree = "<group>"; };
+		5E6667162C7E0D6700902EED /* 57. Insert Interval.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "57. Insert Interval.swift"; sourceTree = "<group>"; };
+		5E6667182C7F5BFD00902EED /* 2575. Find the Divisibility Array of a String  .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2575. Find the Divisibility Array of a String  .swift"; sourceTree = "<group>"; };
+		5E66671A2C7F633F00902EED /* 743. Network Delay Time.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "743. Network Delay Time.swift"; sourceTree = "<group>"; };
+		5E66671C2C820E4000902EED /* 787. Cheapest Flights Within K Stops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "787. Cheapest Flights Within K Stops.swift"; sourceTree = "<group>"; };
+		5E66671E2C860ECF00902EED /* 930. Binary Subarrays With Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "930. Binary Subarrays With Sum.swift"; sourceTree = "<group>"; };
+		5E6667202C861E2300902EED /* 1695. Maximum Erasure Value.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1695. Maximum Erasure Value.swift"; sourceTree = "<group>"; };
+		5E6667222C8736F900902EED /* 567. Permutation in String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "567. Permutation in String.swift"; sourceTree = "<group>"; };
+		5E6667242C88C3A600902EED /* 205. Isomorphic Strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "205. Isomorphic Strings.swift"; sourceTree = "<group>"; };
+		5E6667262C89D7BA00902EED /* 290. Word Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "290. Word Pattern.swift"; sourceTree = "<group>"; };
+		5E6667282C8B46A800902EED /* 791. Custom Sort String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "791. Custom Sort String.swift"; sourceTree = "<group>"; };
 		5E6B9E232B4F442C003740C8 /* 141. Linked List Cycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "141. Linked List Cycle.swift"; sourceTree = "<group>"; };
 		5E7659A02C51324000BA0C04 /* 188. Best Time to Buy and Sell Stock IV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "188. Best Time to Buy and Sell Stock IV.swift"; sourceTree = "<group>"; };
 		5E7659A22C5A754200BA0C04 /* 2218. Maximum Value of K Coins From Piles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2218. Maximum Value of K Coins From Piles.swift"; sourceTree = "<group>"; };
@@ -411,6 +437,8 @@
 				5E49982D2BF3E89700A01777 /* 46. Permutations.swift */,
 				5E448F6E2B448DF5009CA027 /* 49. Group Anagrams .swift */,
 				5E4998392C02103A00A01777 /* 52. N-Queens II.swift */,
+				5E6667122C7DF5D500902EED /* 56. Merge Intervals.swift */,
+				5E6667162C7E0D6700902EED /* 57. Insert Interval.swift */,
 				5E42C3462C61044D000650FA /* 62. Unique Paths.swift */,
 				5E42C34A2C62C10B000650FA /* 63. Unique Paths II.swift */,
 				5E42C3482C6230D3000650FA /* 64. Minimum Path Sum.swift */,
@@ -436,6 +464,7 @@
 				5E6021832C3BF75300CC42A2 /* 198. House Robber.swift */,
 				5EFCD3D82B8B5E0700359C54 /* 199. Binary Tree Right Side View.swift */,
 				5EE21D632B966C0900412F48 /* 200. Number of Islands.swift */,
+				5E6667242C88C3A600902EED /* 205. Isomorphic Strings.swift */,
 				5E41B3222B5F009700C2B0EE /* 206. Reverse Linked List.swift */,
 				5E6667002C707D2700902EED /* 208. Implement Trie (Prefix Tree).swift */,
 				5E42C3562C6A9F56000650FA /* 209. Minimum Size Subarray Sum.swift */,
@@ -447,6 +476,7 @@
 				5E6667082C732E1100902EED /* 264. Ugly Number II.swift */,
 				5E5BAD6C2B9478DD0039D1DC /* 270. Closest Binary Search Tree Value.swift */,
 				5E63F7B62BB377580036B95C /* 283. Move Zeroes.swift */,
+				5E6667262C89D7BA00902EED /* 290. Word Pattern.swift */,
 				5E1AF1182BC9D8F200ED7B26 /* 295. Find Median from Data Stream.swift */,
 				5EFA9BF42C400CC10041ACE5 /* 300. Longest Increasing Subsequence.swift */,
 				5E42C3602C6BF9F5000650FA /* 303. Range Sum Query - Immutable.swift */,
@@ -462,6 +492,7 @@
 				5E37721C2BB88D78005B2CEC /* 433. Minimum Genetic Mutation.swift */,
 				5ED3FCF62BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift */,
 				5E6666FA2C6F449D00902EED /* 451. Sort Characters By Frequency.swift */,
+				5E66670E2C7CFADC00902EED /* 461. Hamming Distance.swift */,
 				5EA1C1512B83CDF9005323B0 /* 496. Next Greater Element I.swift */,
 				5EC2AADB2BD956190056B2AB /* 502. IPO.swift */,
 				5EFCD3DA2B8B635B00359C54 /* 515. Find Largest Value in Each Tree Row.swift */,
@@ -471,6 +502,7 @@
 				5EFCD3D62B8A81DD00359C54 /* 543. Diameter of Binary Tree.swift */,
 				5E5BAD6E2B95015D0039D1DC /* 547. Number of Provinces.swift */,
 				5E42C3502C6A4464000650FA /* 557. Reverse Words in a String III.swift */,
+				5E6667222C8736F900902EED /* 567. Permutation in String.swift */,
 				5E6666FE2C6F77F400902EED /* 624. Maximum Distance in Arrays.swift */,
 				5E66670C2C73A82500902EED /* 650. 2 Keys Keyboard.swift */,
 				5EC2AAC02BCFC3660056B2AB /* 658. Find K Closest Elements.swift */,
@@ -481,9 +513,12 @@
 				5E42C3422C5B98CD000650FA /* 714. Best Time to Buy and Sell Stock with Transaction Fee.swift */,
 				5E42C35E2C6B8045000650FA /* 724. Find Pivot Index.swift */,
 				5E56748F2B79304E00D2AAF4 /* 739. Daily Temperatures.swift */,
+				5E66671A2C7F633F00902EED /* 743. Network Delay Time.swift */,
 				5E4998432C36C35400A01777 /* 746. Min Cost Climbing Stairs.swift */,
 				5EBAE0D22BB20C6700112CAF /* 752. Open the Lock.swift */,
 				5E448F782B460DE0009CA027 /* 771. Jewels and Stones .swift */,
+				5E66671C2C820E4000902EED /* 787. Cheapest Flights Within K Stops.swift */,
+				5E6667282C8B46A800902EED /* 791. Custom Sort String.swift */,
 				5E4998332BF7999300A01777 /* 797. All Paths From Source to Target.swift */,
 				5EB9B34D2B9A2CD1002FADF5 /* 841. Keys and Rooms.swift */,
 				5E5C3AAB2B71908A004CC02C /* 844. Backspace String Compare.swift */,
@@ -496,6 +531,7 @@
 				5EF72D8A2BB4CB1100B8CF21 /* 905. Sort Array By Parity.swift */,
 				5EE3DDFE2BB0BF0C003F7686 /* 909. Snakes and Ladders.swift */,
 				5E42C34E2C6A3E4A000650FA /* 917. Reverse Only Letters.swift */,
+				5E66671E2C860ECF00902EED /* 930. Binary Subarrays With Sum.swift */,
 				5E42C34C2C63977E000650FA /* 931. Minimum Falling Path Sum.swift */,
 				5E56748D2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift */,
 				5E8227A62B8FC31B008DC5CE /* 938. Range Sum of BST.swift */,
@@ -539,6 +575,7 @@
 				5EB625302B7425300033CE3A /* 1544. Make The String Great.swift */,
 				5EB9B34F2B9B1D2C002FADF5 /* 1557. Minimum Number of Vertices to Reach All Nodes.swift */,
 				5E4998232BEA8BD600A01777 /* 1631. Path With Minimum Effort.swift */,
+				5E6667202C861E2300902EED /* 1695. Maximum Erasure Value.swift */,
 				5E4998112BDEBAD300A01777 /* 1710. Maximum Units on a Truck.swift */,
 				5E42C35C2C6B7E2C000650FA /* 1732. Find the Highest Altitude.swift */,
 				5E42C3682C6D0D0E000650FA /* 1748. Sum of Unique Elements.swift */,
@@ -556,6 +593,7 @@
 				5E0AA4502BC4807A0061D826 /* 2208. Minimum Operations to Halve Array Sum.swift */,
 				5E7659A22C5A754200BA0C04 /* 2218. Maximum Value of K Coins From Piles.swift */,
 				5E448F662B3F808A009CA027 /* 2225. Find Players With Zero or One Losses .swift */,
+				5E6667142C7E0D3D00902EED /* 2233. Maximum Product After K Increments.swift */,
 				5E448F702B44937B009CA027 /* 2260. Minimum Consecutive Cards to Pick Up .swift */,
 				5EC2AAD92BD82E9A0056B2AB /* 2294. Partition Array Such That Maximum Difference Is K.swift */,
 				5E49981B2BE546DF00A01777 /* 2300. Successful Pairs of Spells and Potions.swift */,
@@ -564,6 +602,7 @@
 				5E11C2F22BA0C50A0068484B /* 2368. Reachable Nodes With Restrictions.swift */,
 				5E49981F2BE7847C00A01777 /* 2389. Longest Subsequence With Limited Sum.swift */,
 				5E42C3522C6A94D0000650FA /* 2540. Minimum Common Value.swift */,
+				5E6667182C7F5BFD00902EED /* 2575. Find the Divisibility Array of a String  .swift */,
 				5E6667022C70823A00902EED /* 2958. Length of Longest Subarray With at Most K Frequency.swift */,
 				5E42C36A2C6DFA5A000650FA /* 3005. Count Elements With Maximum Frequency.swift */,
 			);
@@ -646,6 +685,8 @@
 				5E37721D2BB88D78005B2CEC /* 433. Minimum Genetic Mutation.swift in Sources */,
 				5EBAE0D32BB20C6700112CAF /* 752. Open the Lock.swift in Sources */,
 				5EC2AADE2BDABBC00056B2AB /* 1481. Least Number of Unique Integers after K Removals.swift in Sources */,
+				5E6667272C89D7BA00902EED /* 290. Word Pattern.swift in Sources */,
+				5E6667212C861E2300902EED /* 1695. Maximum Erasure Value.swift in Sources */,
 				5E7659A12C51324000BA0C04 /* 188. Best Time to Buy and Sell Stock IV.swift in Sources */,
 				5E42C3472C61044D000650FA /* 62. Unique Paths.swift in Sources */,
 				5EFCD3D32B88C13300359C54 /* 111. Minimum Depth of Binary Tree.swift in Sources */,
@@ -669,6 +710,7 @@
 				5E56748E2B77B50F00D2AAF4 /* 933. Number of Recent Calls.swift in Sources */,
 				5EB616832BC7158C004A5F03 /* 75. Sort Colors.swift in Sources */,
 				5E42C36B2C6DFA5A000650FA /* 3005. Count Elements With Maximum Frequency.swift in Sources */,
+				5E6667152C7E0D3D00902EED /* 2233. Maximum Product After K Increments.swift in Sources */,
 				5EE3DDF72BAB9263003F7686 /* 1346. Check If N and Its Double Exist.swift in Sources */,
 				5EC2AADA2BD82E9A0056B2AB /* 2294. Partition Array Such That Maximum Difference Is K.swift in Sources */,
 				5E448F792B460DE0009CA027 /* 771. Jewels and Stones .swift in Sources */,
@@ -692,6 +734,7 @@
 				5EFCD3D72B8A81DD00359C54 /* 543. Diameter of Binary Tree.swift in Sources */,
 				5E5674922B7930A100D2AAF4 /* 346. Moving Average from Data Stream.swift in Sources */,
 				5E42C3572C6A9F56000650FA /* 209. Minimum Size Subarray Sum.swift in Sources */,
+				5E66671B2C7F633F00902EED /* 743. Network Delay Time.swift in Sources */,
 				5E49982A2BEEA94900A01777 /* 1231. Divide Chocolate.swift in Sources */,
 				5E448F772B460A83009CA027 /* 383. Ransom Note.swift in Sources */,
 				5EB9B3552B9C6B63002FADF5 /* 1971. Find if Path Exists in Graph.swift in Sources */,
@@ -704,6 +747,7 @@
 				5EC2AAD22BD2A0E00056B2AB /* 973. K Closest Points to Origin.swift in Sources */,
 				5EE044962C4FCBAE004A2831 /* 1143. Longest Common Subsequence.swift in Sources */,
 				5EC2AAE22BDD81930056B2AB /* 1323. Maximum 69 Number.swift in Sources */,
+				5E6667292C8B46A800902EED /* 791. Custom Sort String.swift in Sources */,
 				5E4998182BE2B2D200A01777 /* 704. Binary Search.swift in Sources */,
 				5E49982C2BF120F900A01777 /* 410. Split Array Largest Sum.swift in Sources */,
 				5E448F6D2B4486FA009CA027 /* 525. Contiguous Array.swift in Sources */,
@@ -756,8 +800,10 @@
 				5EFA9C032C47FD040041ACE5 /* 70. Climbing Stairs.swift in Sources */,
 				5EC2AAC62BD283D90056B2AB /* MaxHeap.swift in Sources */,
 				5E448F692B40A4C5009CA027 /* 1133. Largest Unique Number.swift in Sources */,
+				5E6667132C7DF5D500902EED /* 56. Merge Intervals.swift in Sources */,
 				5EC2AACA2BD284530056B2AB /* ListNode.swift in Sources */,
 				5EE3DDFF2BB0BF0C003F7686 /* 909. Snakes and Ladders.swift in Sources */,
+				5E6667252C88C3A600902EED /* 205. Isomorphic Strings.swift in Sources */,
 				5E42C3452C5D0809000650FA /* 309. Best Time to Buy and Sell Stock with Cooldown.swift in Sources */,
 				5EB9B3572B9E297A002FADF5 /* 323. Number of Connected Components in an Undirected Graph.swift in Sources */,
 				5E6666FF2C6F77F400902EED /* 624. Maximum Distance in Arrays.swift in Sources */,
@@ -765,10 +811,12 @@
 				5EFCD3CD2B87C3A800359C54 /* 1448. Count Good Nodes in Binary Tree.swift in Sources */,
 				5EFCD3B62B86977900359C54 /* 112. Path Sum.swift in Sources */,
 				5E40AD772BA8C5940017966A /* 1293. Shortest Path in a Grid with Obstacles Elimination.swift in Sources */,
+				5E6667232C8736F900902EED /* 567. Permutation in String.swift in Sources */,
 				5E1951312B911BCC0072C9B9 /* 98. Validate Binary Search Tree.swift in Sources */,
 				5E1AF11B2BCD892500ED7B26 /* 1962. Remove Stones to Minimize the Total.swift in Sources */,
 				5EFCD3FA2B8D41BC00359C54 /* 1302. Deepest Leaves Sum.swift in Sources */,
 				5EB6252F2B741DBE0033CE3A /* 71. Simplify Path.swift in Sources */,
+				5E66671D2C820E4000902EED /* 787. Cheapest Flights Within K Stops.swift in Sources */,
 				5E42C3612C6BF9F5000650FA /* 303. Range Sum Query - Immutable.swift in Sources */,
 				5EA1C1522B83CDF9005323B0 /* 496. Next Greater Element I.swift in Sources */,
 				5E4998122BDEBAD300A01777 /* 1710. Maximum Units on a Truck.swift in Sources */,
@@ -791,11 +839,15 @@
 				5EC2AACC2BD284990056B2AB /* BST.swift in Sources */,
 				5E6666FD2C6F4C4400902EED /* 1268. Search Suggestions System.swift in Sources */,
 				5E6021842C3BF75300CC42A2 /* 198. House Robber.swift in Sources */,
+				5E6667172C7E0D6700902EED /* 57. Insert Interval.swift in Sources */,
+				5E66671F2C860ECF00902EED /* 930. Binary Subarrays With Sum.swift in Sources */,
 				5ED3FCF72BBDF70D00F24521 /* 448. Find All Numbers Disappeared in an Array.swift in Sources */,
 				5E42C3632C6CD799000650FA /* 217. Contains Duplicate.swift in Sources */,
 				5E11C2F32BA0C50A0068484B /* 2368. Reachable Nodes With Restrictions.swift in Sources */,
 				5EB9B3502B9B1D2C002FADF5 /* 1557. Minimum Number of Vertices to Reach All Nodes.swift in Sources */,
+				5E6667192C7F5BFD00902EED /* 2575. Find the Divisibility Array of a String  .swift in Sources */,
 				5EFCD4032B8E66AD00359C54 /* 103. Binary Tree Zigzag Level Order Traversal.swift in Sources */,
+				5E66670F2C7CFADC00902EED /* 461. Hamming Distance.swift in Sources */,
 				5EFCD3D52B8A785D00359C54 /* 1026. Maximum Difference Between Node and Ancestor.swift in Sources */,
 				5EFA9BF52C400CC10041ACE5 /* 300. Longest Increasing Subsequence.swift in Sources */,
 				5E49981A2BE415A600A01777 /* 74. Search a 2D Matrix.swift in Sources */,
